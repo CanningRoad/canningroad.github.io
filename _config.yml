@@ -1,0 +1,16 @@
+# This file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+url: "localhost"
+twitter_username: stegriff
+github_username:  stegriff
+permalink: /:title/
+collections:
+ - services
+
+gems:
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+exclude:
+  - Gemfile
+  - Gemfile.lock
