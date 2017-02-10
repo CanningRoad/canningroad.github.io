@@ -1,78 +1,29 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<title></title>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="css/tachyons.css">
-<style>
+---
+intro: >
+  <b>Church is a family, not a building!</b> We're a welcoming Christian church based on the corner of Canning Road and Milton Street. We believe Jesus is the hope for the world and we want to share that real and lasting joy with you.
+layout: default
+---
+<h2 class="garamond">Our regular meetings</h2>
+<p>We have a regular Sunday morning service as well as other events throughout the week. Click on one of our services for more information.</p>
 
-</style>
-</head>
-<body class="w-100">
+<div class="w-100 pv3 flex-l items-center-l">
 
-	<header class="pa3 pv5 w-100 w-50-l center tc flex-l items-center-l">
-		<img class="w4" src="logo-black-286.png" alt="A sketch of the church" />
-		<h1 class="garamond w-100-l tc">Canning Road Evangelical Church</h1>
-	</header>
-	
-	<main class="pt3">
-		<div class="flex-l">
-			<div class="pa3 pa6-l
-				w-100 w-80-l 
-				bg-blue">
-				<p class="white f3 measure"><b>Church is a family, not a building!</b> We're a welcoming Christian church based on the corner of Canning Road and Milton Street. We believe Jesus is the hope for the world and we want to share that real and lasting joy with you.</p>
+	{% for service in site.services %}
+		<a class="no-underline" href="{{ service.url }}">
+			<div class="w5 h4 pa3
+				ma2 mh4-l mv0-l
+				bg-blue white tc grow hover-bg-dark-blue">
+				
+				<p class="mv1"><strong>{{ service.name }}</strong></p>
+				<p class="mv1">{{ service.audience }}</p>
+				<p class="mv1">{{ service.when }}</p>
+				
+				{% if service.nextevent %}
+				<p class="mv1"><i>Next event:</i> {{ service.nextevent }}</p>
+				{% endif %}
+				
 			</div>
-			
-			<nav class="pa1
-				w100 w-20-l
-				bw4 bt b--dark-blue">
-				<ul class="list pl3">
-					<li><a href="#">About</a></li>
-					<li><a href="#">Services & Events</a></li>
-					<li><a href="#">News</a></li>
-					<li><a href="#">More...</a></li>
-				</ul>
-			</nav>
-		</div>
-		
-		<div class="pa3">
-			<h2 class="garamond">Our regular meetings</h2>
-			<p>We have a regular Sunday morning service as well as other events throughout the week. Click on one of our services for more information.</p>
-			
-			<div class="w-100 pv3 flex-l items-center-l">
-			<a class="no-underline" href="#">
-				<div class="w5 h4 pa3
-					ma2 mh4-l mv0-l
-					bg-blue white tc grow hover-bg-dark-blue">
-					<p class="mv1"><strong>Family Service</strong></p>
-					<p class="mv1">Sunday mornings at 10:30am</p>
-					<p class="mv1">All welcome</p>
-				</div>
-			</a>
-			
-			<a class="no-underline" href="#">
-				<div class="w5 h4 pa3
-					ma2 mh4-l mv0-l
-					bg-blue white tc grow hover-bg-dark-blue">
-					<p class="mv1"><strong>Family Service</strong></p>
-					<p class="mv1">Sunday mornings at 10:30am</p>
-					<p class="mv1">All welcome</p>
-				</div>
-			</a>
+		</a>
+	{% endfor %}
 
-			<a class="no-underline" href="#">
-				<div class="w5 h4 pa3
-					ma2 mh4-l mv0-l
-					bg-blue white tc grow hover-bg-dark-blue">
-					<p class="mv1"><strong>Family Service</strong></p>
-					<p class="mv1">Sunday mornings at 10:30am</p>
-					<p class="mv1">All welcome</p>
-				</div>
-			</a>
-			</div>	
-		</div>
-	</main>
-	
-</body>
-</html>
+</div>	

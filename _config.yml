@@ -6,7 +6,15 @@ twitter_username: stegriff
 github_username:  stegriff
 permalink: /:title/
 collections:
- - services
+ services:
+  output : true
+
+defaults:
+  -
+    scope:
+      path: "" # All files in the project
+    values:
+      layout: "default"
 
 gems:
   - jekyll-optional-front-matter
