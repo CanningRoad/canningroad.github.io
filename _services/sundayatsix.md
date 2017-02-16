@@ -21,7 +21,7 @@ If you're not sure what life is about, come and discover what God has got in sto
 
 ## When can I come
 
-We do Sunday at Six on the {{page.when}}. For example, the 5th March 2017, the 2nd April 2017, ...
+We do Sunday at Six on the {{page.when}}. For example, the 5th March 2017, the 2nd April 2017, ...  
 And it is at 6pm (of course).
 
 We would love to meet you.

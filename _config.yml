@@ -8,6 +8,8 @@ permalink: /:title/
 collections:
  services:
   output : true
+ activities:
+  output : true
 
 defaults:
   -
