@@ -1,4 +1,6 @@
 h1,h2,h3
 {
-	font-family: Garamond, Georgia, Times New Roman, serif;
+	font-family: Garamond, 'EB Garamond', Georgia, Times New Roman, serif;
 }
+
+.hover-bg-irnbru:focus,.hover-bg-irnbru:hover{background-color:#ff3900}

@@ -1,9 +1,7 @@
 # This file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-url: "localhost"
-twitter_username: stegriff
-github_username:  stegriff
+url: "http://stegriff.co.uk/test/canning-road/"
 permalink: /:title/
 collections:
  services:

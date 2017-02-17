@@ -8,17 +8,17 @@ We have a regular Sunday morning service as well as other events throughout the 
 <div class="w-100 pv3 flex-l items-center-l">
 
 	{% for service in site.services %}
-		<a class="no-underline" href="{{ service.url }}">
+		<a class="no-underline" href="{{site.url}}/{{service.url}}">
 			<div class="w5 h4 pa3
 				ma2 mh4-l mv0-l
-				bg-blue white tc grow hover-bg-dark-blue">
+				bg-orange white tc grow hover-bg-irnbru">
 				
-				<p class="mv1"><strong>{{ service.name }}</strong></p>
-				<p class="mv1">{{ service.audience }}</p>
-				<p class="mv1">{{ service.when }}</p>
+				<p class="mv1"><strong>{{service.name}}</strong></p>
+				<p class="mv1">{{service.audience}}</p>
+				<p class="mv1">{{service.when}}</p>
 				
 				{% if service.nextevent %}
-				<p class="mv1"><i>Next event:</i> {{ service.nextevent }}</p>
+				<p class="mv1"><i>Next event:</i> {{service.nextevent}}</p>
 				{% endif %}
 				
 			</div>
@@ -32,14 +32,14 @@ We have a regular Sunday morning service as well as other events throughout the 
 <div class="w-100 pv3 flex-l items-center-l">
 
 	{% for act in site.activities %}
-		<a class="no-underline" href="{{ act.url }}">
+		<a class="no-underline" href="{{site.url}}/{{act.url}}">
 			<div class="w5 h4 pa3
 				ma2 mh4-l mv0-l
 				bg-blue white tc grow hover-bg-dark-blue">
 				
-				<p class="mv1"><strong>{{ act.name }}</strong></p>
-				<p class="mv1">{{ act.about }}</p>
-				<p class="mv1">{{ act.when }}</p>
+				<p class="mv1"><strong>{{act.name}}</strong></p>
+				<p class="mv1">{{act.about}}</p>
+				<p class="mv1">{{act.when}}</p>
 				
 			</div>
 		</a>
