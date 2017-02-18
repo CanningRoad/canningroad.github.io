@@ -1,8 +1,8 @@
 # This file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-url: "https://stegriff.github.io/canning-road-jekyll/"
-#url: http://stegriff.co.uk/test/canning-road/
+#url: "https://stegriff.github.io/canning-road-jekyll/"
+url: http://stegriff.co.uk/test/canning-road/
 permalink: /:title/
 collections:
  services:

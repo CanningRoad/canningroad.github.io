@@ -46,3 +46,6 @@ We have a regular Sunday morning service as well as other events throughout the 
 	{% endfor %}
 
 </div>	
+
+## Recent Posts
+

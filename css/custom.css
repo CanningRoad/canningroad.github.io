@@ -4,3 +4,9 @@ h1,h2,h3
 }
 
 .hover-bg-irnbru:focus,.hover-bg-irnbru:hover{background-color:#ff3900}
+
+.bg-cloud
+{
+	background: url("../img/cloud1.png") no-repeat center center;
+	background-size: 620px;
+}
