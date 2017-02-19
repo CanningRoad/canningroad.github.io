@@ -7,6 +7,6 @@ h1,h2,h3
 
 .bg-cloud
 {
-	background: url("../img/cloud1.png") no-repeat center center;
-	background-size: 620px;
+	background: url("../img/cloud1.png") no-repeat center 50px;
+	background-size: 600px;
 }
