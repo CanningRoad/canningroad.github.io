@@ -1,0 +1,8 @@
+[
+	{title : "Home", link : "/"},
+	{title : "About us", link : "/about/"},
+	{title : "Services & Events", link : "#"},
+	{title : "News", link : "#"},
+	{title : "Sermons", link : "#"},
+	{title : "Resources", link : "#"}	
+]

@@ -3,10 +3,42 @@ h1,h2,h3
 	font-family: Garamond, 'EB Garamond', Georgia, Times New Roman, serif;
 }
 
+.content-box
+{
+	box-sizing: content-box;
+}
+
+.item-grow
+{
+	flex-grow: 1;
+}
+
 .hover-bg-irnbru:focus,.hover-bg-irnbru:hover{background-color:#ff3900}
 
 .bg-cloud
 {
 	background: url("../img/cloud1.png") no-repeat center 50px;
 	background-size: 600px;
+}
+
+.bg-congregation
+{
+	background: url("../img/congregation2oc.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+/* -ns Not Small */
+@media screen and (min-width:30em){
+	.center-ns{margin-right:auto;margin-left:auto}
+
+}
+
+/* -l Large */
+@media screen and (min-width:60em){
+	.bg-nav-l
+	{
+		border-width: 23px 44px 23px 44px;
+		border-image: url("../img/nav-rail.png") 23 44 23 44 fill repeat;
+		border-image-outset: 10px 44px;
+	}
 }

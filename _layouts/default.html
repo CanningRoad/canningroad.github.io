@@ -1,7 +1,11 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title></title>
+{% if page.title %}
+	<title>{{page.title}} - {{site.title}}</title>
+{% else %}
+	<title>{{site.title}}</title>
+{% endif %}
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet"> 
@@ -18,41 +22,50 @@
 	<header class="bg-cloud">
 		<div class="w5 center pt4">
 			<a href="{{site.url}}/">
-				<img class="" src="{{site.url}}/img/logo-filled-572.png" alt="A sketch of the church" />
+				<img class="" src="{{site.url}}/img/logo-filled-512.png" alt="A sketch of the church" />
 			</a>
 		</div>
-		<a class="no-underline black" href="{{site.url}}/">
+		<a class="no-underline black outline-transparent" href="{{site.url}}/">
 			<h1 class="w-100-l tc">Canning Road Evangelical Church</h1>
 		</a>
-	</header>
 
-	<main class="pt3">
-		<div class="flex-l">
-			<div class="pa3 pa5-l
-				w-100 w-80-l 
-				bg-blue">
-				
-				{% if page.intro %}
-					<p class="white f3 measure">{{ page.intro }}</p>
-				{% elsif page.longname %}
-					<h2 class="white f2 tc">{{ page.longname }}</h2>
-				{% else %}
-					<h2 class="white f2 tc">{{ page.name }}</h2>
-				{% endif %}
-			</div>
-			
-			<nav class="pa1
-				w100 w-20-l
-				bw4 bt b--dark-blue">
-				<ul class="list pl3">
-					<li><a href="{{site.url}}/">Home</a></li>
-					<li><a href="{{site.url}}/about/">About</a></li>
-					<li><a href="#">Services & Events</a></li>
-					<li><a href="#">News</a></li>
-					<li><a href="#">More...</a></li>
+		<div class="content-box
+		bg-nav-l
+		bw1 bb bl-l br-l">
+			<nav class="
+			mt3
+			nb3-l
+			f3 garamond b no-underline">
+				<ul class="list
+				pl0 mv0-ns
+				flex-l">
+					{% for navitem in site.data.navitems %}
+						<li class="tc item-grow">
+							<a class="black no-underline" href="{{navitem.link}}">
+								{{navitem.title}}
+							</a>
+						</li>
+					{% endfor %}
 				</ul>
 			</nav>
+		<div>
+		
+	</header>
+
+	<main>
+		<div class="pa3
+			w-100
+			bg-congregation">
+			
+			{% if page.intro %}
+				<p class="f3 measure-wide center">{{ page.intro }}</p>
+			{% elsif page.longname %}
+				<h2 class="f2 tc">{{ page.longname }}</h2>
+			{% else %}
+				<h2 class="f2 tc">{{ page.name }}</h2>
+			{% endif %}
 		</div>
+		
 		<div class="pa3 ph5-ns mw8-ns">
 			{{content}}
 		</div>
