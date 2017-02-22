@@ -4,9 +4,10 @@ longname: Family Service and breaking of bread
 audience: All welcome
 when: Sunday mornings at 10:30am
 ---
-## What's it like?
 
 Our family service is where we meet together to praise God, learn more about him, and support each other in life. 
+
+## What's it like?
 
 It goes like this:
 

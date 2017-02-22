@@ -1,9 +1,12 @@
 ---
 name: Messy Church
 audience: For families
-when: Saturdays, every six weeks
+when: Saturdays, every three months
 nextevent: 21st Jan 2017
 ---
+
+Messy Church is a fun way for families with younger kids to get into God's house and have a great time. We have a different theme each service that teaches us something about God, like how he is the creator, or our father, or our friend.
+
 ## What's it like?
 
  * Time for crafts and activities
@@ -11,8 +14,6 @@ nextevent: 21st Jan 2017
  * A couple of songs
  * Eat dinner together (at no cost)
  
-Messy Church is a fun way for families with younger kids to get into God's house and have a great time. We have a different theme each service that teaches us something about God, like how he is the creator, or our father, or our friend.
-
 We start in the hall with a number of supervised crafts, and the kids can try as many or as few as they want to. There is also an area with soft toys for the very little ones.
 
 After a while we go into the main church to listen to a short talk with lots of interaction! We also sing a few easy songs together.

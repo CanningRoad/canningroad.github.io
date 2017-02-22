@@ -3,9 +3,10 @@ name: Sunday at Six
 audience: All welcome
 when: First Sunday of each month at 6pm
 ---
-## What's it like
 
 Sometimes people think church is a boring place, where you sit in a pew, sing hymns, and fall asleep in the sermon. But church is supposed to be real people living their lives together for a greater good -- our amazing God.
+
+## What's it like?
 
 In Sunday At Six, we strip it all back to basics:
 
