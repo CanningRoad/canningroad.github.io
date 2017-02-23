@@ -1,10 +1,13 @@
 ---
-longname: Services & Events
+name: Services & Events
 ---
 
-## Services
+We've got a range of things going on, and not just on Sundays!
 
-<div class="w-100 pv2">
+Have a look and see if any of these things might be for you:
+
+<div class="w-100 pv2 w-50-l fl-l">
+	<h2>Services</h2>	
 	{% for service in site.services %}
 		<a class="no-underline near-black" href="{{site.url}}/{{service.url}}">
 			<div class="pv1 ph3
@@ -27,9 +30,8 @@ longname: Services & Events
 	{% endfor %}
 </div>
 
-## Events
-
-<div class="w-100 pv2">
+<div class="w-100 pv2 w-50-l fl-l">
+	<h2>Events</h2>	
 	{% for activity in site.activities %}
 		<a class="no-underline near-black" href="{{site.url}}/{{activity.url}}">
 			<div class="pv1 ph3

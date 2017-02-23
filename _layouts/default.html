@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-{% if page.title %}
-	<title>{{page.title}} - {{site.title}}</title>
+{% if page.name %}
+	<title>{{page.name}} - {{site.title}}</title>
 {% else %}
 	<title>{{site.title}}</title>
 {% endif %}
@@ -48,7 +48,7 @@
 					{% endfor %}
 				</ul>
 			</nav>
-		<div>
+		</div>
 		
 	</header>
 
@@ -66,7 +66,7 @@
 			{% endif %}
 		</div>
 		
-		<div class="pa3 ph5-ns mw8-ns">
+		<div class="pa3 ph5-ns mw8-ns cf">
 			{{content}}
 		</div>
 	</main>

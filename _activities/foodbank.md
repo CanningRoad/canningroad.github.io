@@ -4,8 +4,7 @@ about: Supplying food for those on benefits and in need
 when: Fridays at 5pm
 ---
 
-It's can be hard to get by on a low-paying job or benefits. The food bank is here to help out by providing free food which you can take away, which has been provided by local businesses through a charity called the [Trussel Trust][trussel]. The foodbank is held in our schoolroom (the big green building), and all of us are volunteers who give up our time to help the neighbourhood.
-
+It can be hard to get by on a low-paying job or benefits. The food bank is here to help out by providing free food which you can take away, which has been provided by local businesses through a charity called the [Trussel Trust][trussel]. The foodbank is held in our schoolroom (the big green building), and all of us are volunteers who give up our time to help the neighbourhood.
 
 ## What's it like?
 

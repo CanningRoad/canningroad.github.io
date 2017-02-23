@@ -27,10 +27,22 @@ h1,h2,h3
 	background-size: cover;
 }
 
-/* -ns Not Small */
+main img
+{
+	border: 1px solid gray;
+}
+
+/* -ns Not Small (That's medium and large) */
 @media screen and (min-width:30em){
 	.center-ns{margin-right:auto;margin-left:auto}
 
+	main img
+	{
+		width: 16rem; /* .w5 */
+		float: right;
+		margin: 1rem;
+		padding: 2px;
+	}
 }
 
 /* -l Large */

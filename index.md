@@ -1,4 +1,5 @@
 ---
+name: Welcome
 intro: >
   <b>Church is a family, not a building!</b> We're a welcoming Christian church based on the corner of Canning Road and Milton Street. We believe Jesus is the hope for the world and we want to share that real and lasting joy with you.
 ---
