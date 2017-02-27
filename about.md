@@ -1,5 +1,5 @@
 ---
-name: About us
+title: About us
 longname: Our church and what we believe
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Midweek Prayer
+title: Midweek Prayer
 longname: Midweek Prayer & Praise Meeting
 about: For the upbuilding of the church
 when: Wednesdays at 7:30pm

@@ -1,5 +1,5 @@
 ---
-name: Family Service
+title: Family Service
 longname: Family Service and breaking of bread
 audience: All welcome
 when: Sunday mornings at 10:30am

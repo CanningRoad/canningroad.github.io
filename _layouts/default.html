@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-{% if page.name %}
-	<title>{{page.name}} - {{site.title}}</title>
+{% if page.title %}
+	<title>{{page.title}} - {{site.title}}</title>
 {% else %}
 	<title>{{site.title}}</title>
 {% endif %}
@@ -17,7 +17,9 @@
 </head>
 <body class="bg-moon-gray near-black">
 
-	<div class="w-80-l center bg-white">
+	<div class="w-80-l center bg-white
+	
+	shadow-1">
 
 	<header class="bg-cloud">
 		<div class="w5 center pt4">
@@ -29,7 +31,7 @@
 			<h1 class="w-100-l tc">Canning Road Evangelical Church</h1>
 		</a>
 
-		<div class="content-box
+		<div class="
 		bg-nav-l
 		bw1 bb bl-l br-l">
 			<nav class="
@@ -62,9 +64,41 @@
 			{% elsif page.longname %}
 				<h2 class="f2 tc">{{ page.longname }}</h2>
 			{% else %}
-				<h2 class="f2 tc">{{ page.name }}</h2>
+				<h2 class="f2 tc">{{ page.title }}</h2>
+			{% endif %}
+			
+			{% if false and page.date %}
+				<p class="f4 tc">Written {{page.date | date_to_string}}</p>
 			{% endif %}
 		</div>
+		
+
+		{% if false and page.date and (page.previous or page.next) %}
+			<div class="bg-near-white cf">
+				{% if page.previous %}
+					<p class="
+					w-100 h2 tc ph4 pv2
+					w-50-l fl-l tl-l
+					near-black no-underline
+					hover-bg-moon-gray grow">
+						<a href="{{page.previous.url}}">
+							&larr; Older: {{page.previous.title}}
+						</a>
+					</p>
+				{% endif %}
+				
+				{% if page.next %}
+					<a href="{{page.next.url}}">
+						<p class="
+						w-100 h2 tc ph4 pv2
+						w-50-l fr-l tr-l
+						near-black no-underline">
+								Newer: {{page.next.title}} &rarr;
+						</p>
+					</a>
+				{% endif %}
+			</div>
+		{% endif %}
 		
 		<div class="pa3 ph5-ns mw8-ns cf">
 			{{content}}

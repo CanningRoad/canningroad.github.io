@@ -1,5 +1,5 @@
 ---
-name: Services & Events
+title: Services & Events
 ---
 
 We've got a range of things going on, and not just on Sundays!
@@ -15,7 +15,7 @@ Have a look and see if any of these things might be for you:
 				ba bw1
 				b--mid-gray grow ">
 				
-				<h2>{{service.name}}</h2>
+				<h2>{{service.title}}</h2>
 				<p class="mv1 b">{{service.audience}}</p>
 				<p class="mv1">{{service.when}}</p>
 				
@@ -39,7 +39,7 @@ Have a look and see if any of these things might be for you:
 				ba bw1
 				b--mid-gray grow ">
 				
-				<h2>{{activity.name}}</h2>
+				<h2>{{activity.title}}</h2>
 				<p class="mv1 b">{{activity.audience}}</p>
 				<p class="mv1">{{activity.when}}</p>
 				

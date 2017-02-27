@@ -1,5 +1,5 @@
 ---
-name: New Generation (Kids Club)
+title: New Generation (Kids Club)
 about: An after-school club for 5-11s
 when: Wednesdays at 5pm
 ---

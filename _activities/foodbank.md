@@ -1,5 +1,5 @@
 ---
-name: Food Bank
+title: Food Bank
 about: Supplying food for those on benefits and in need
 when: Fridays at 5pm
 ---

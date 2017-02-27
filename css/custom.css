@@ -3,11 +3,6 @@ h1,h2,h3
 	font-family: Garamond, 'EB Garamond', Georgia, Times New Roman, serif;
 }
 
-.content-box
-{
-	box-sizing: content-box;
-}
-
 .item-grow
 {
 	flex-grow: 1;
@@ -24,6 +19,12 @@ h1,h2,h3
 .bg-congregation
 {
 	background: url("../img/congregation2oc.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.bg-building
+{
+	background: url("../img/building1.jpg") no-repeat center center;
 	background-size: cover;
 }
 

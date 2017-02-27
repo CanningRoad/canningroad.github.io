@@ -1,5 +1,5 @@
 ---
-name: Messy Church
+title: Messy Church
 audience: For families
 when: Saturdays, every three months
 nextevent: 21st Jan 2017

@@ -4,7 +4,7 @@
 title: "Canning Road"
 #url: "https://stegriff.github.io/canning-road-jekyll/"
 url: http://stegriff.co.uk/test/canning-road/
-permalink: /:title/
+permalink: /post/:title/
 collections:
  services:
   output : true

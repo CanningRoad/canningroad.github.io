@@ -1,5 +1,5 @@
 ---
-name: Welcome
+title: Welcome
 intro: >
   <b>Church is a family, not a building!</b> We're a welcoming Christian church based on the corner of Canning Road and Milton Street. We believe Jesus is the hope for the world and we want to share that real and lasting joy with you.
 ---
@@ -14,7 +14,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 				ma2 mr4-l
 				bg-orange white tc grow hover-bg-irnbru">
 				
-				<p class="mv1"><strong>{{service.name}}</strong></p>
+				<p class="mv1"><strong>{{service.title}}</strong></p>
 				<p class="mv1">{{service.audience}}</p>
 				<p class="mv1">{{service.when}}</p>
 				
@@ -38,7 +38,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 				ma2 mr4-l
 				bg-blue white tc grow hover-bg-dark-blue">
 				
-				<p class="mv1"><strong>{{act.name}}</strong></p>
+				<p class="mv1"><strong>{{act.title}}</strong></p>
 				<p class="mv1">{{act.about}}</p>
 				<p class="mv1">{{act.when}}</p>
 				
@@ -60,7 +60,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 				b--mid-gray grow ">
 				
 				<p>
-					<strong>{{post.name}}</strong>
+					<strong>{{post.title}}</strong>
 					<small>{{post.date | date_to_string}}</small>
 				</p>
 				<p>{{post.content | strip_html | truncatewords: 25}}</p>
