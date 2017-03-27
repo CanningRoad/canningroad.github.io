@@ -40,9 +40,9 @@ main img
 	main img
 	{
 		width: 16rem; /* .w5 */
-		float: right;
-		margin: 1rem;
-		padding: 2px;
+		float: right; /* .fr */
+		margin: 1rem; /* .m1 */
+		padding: 2px; /* artistic... */
 	}
 }
 
@@ -50,8 +50,8 @@ main img
 @media screen and (min-width:60em){
 	.bg-nav-l
 	{
-		border-width: 23px 44px 23px 44px;
+		/*border-width: 23px 44px 23px 44px;*/
 		border-image: url("../img/nav-rail.png") 23 44 23 44 fill repeat;
-		border-image-outset: 10px 44px;
+		/*border-image-outset: 10px 44px;*/
 	}
 }
