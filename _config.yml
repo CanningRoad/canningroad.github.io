@@ -17,6 +17,12 @@ defaults:
       path: "" # All files in the project
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      has_pager: true
 
 gems:
   - jekyll-optional-front-matter

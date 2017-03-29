@@ -12,7 +12,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 		<a class="no-underline" href="{{site.url}}/{{service.url}}">
 			<div class="w5 h4 pa3
 				ma2 mr4-l
-				bg-orange white tc grow hover-bg-irnbru">
+				bg-blue white tc grow hover-bg-dark-blue">
 				
 				<p class="mv1"><strong>{{service.title}}</strong></p>
 				<p class="mv1">{{service.audience}}</p>
@@ -36,7 +36,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 		<a class="no-underline" href="{{site.url}}/{{act.url}}">
 			<div class="w5 h4 pa3
 				ma2 mr4-l
-				bg-blue white tc grow hover-bg-dark-blue">
+				bg-regal white tc grow hover-bg-darkregal">
 				
 				<p class="mv1"><strong>{{act.title}}</strong></p>
 				<p class="mv1">{{act.about}}</p>

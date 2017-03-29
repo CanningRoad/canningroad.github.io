@@ -10,6 +10,9 @@ h1,h2,h3
 
 .hover-bg-irnbru:focus,.hover-bg-irnbru:hover{background-color:#ff3900}
 
+.bg-regal{background-color:#7c2ca5}
+.hover-bg-darkregal:focus,.hover-bg-darkregal:hover{background-color:#5e217d}
+
 .bg-cloud
 {
 	background: url("../img/cloud1.png") no-repeat center 50px;
@@ -18,7 +21,7 @@ h1,h2,h3
 
 .bg-congregation
 {
-	background: url("../img/congregation2oc.jpg") no-repeat center center;
+	background: url("../img/congregation2.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -26,11 +29,6 @@ h1,h2,h3
 {
 	background: url("../img/building1.jpg") no-repeat center center;
 	background-size: cover;
-}
-
-main img
-{
-	border: 1px solid gray;
 }
 
 /* -ns Not Small (That's medium and large) */
@@ -50,7 +48,7 @@ main img
 @media screen and (min-width:60em){
 	.bg-nav-l
 	{
-		/*border-width: 23px 44px 23px 44px;*/
+		border-width: 23px 44px;
 		border-image: url("../img/nav-rail.png") 23 44 23 44 fill repeat;
 		/*border-image-outset: 10px 44px;*/
 	}

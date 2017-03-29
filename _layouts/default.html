@@ -18,7 +18,6 @@
 <body class="bg-moon-gray near-black">
 
 	<div class="w-80-l center bg-white
-	
 	shadow-1">
 
 	<header class="bg-cloud">
@@ -32,6 +31,8 @@
 		</a>
 
 		<div class="
+		ma3-l
+		
 		bg-nav-l
 		bw1 bb bl-l br-l">
 			<nav class="
@@ -55,7 +56,7 @@
 	</header>
 
 	<main>
-		<div class="ma2 pa3
+		<div class="pa3
 			bg-congregation">
 			
 			{% if page.intro %}
@@ -66,13 +67,12 @@
 				<h2 class="f2 tc">{{ page.title }}</h2>
 			{% endif %}
 			
-			{% if false and page.date %}
+			{% if page.has_pager %}
 				<p class="f4 tc">Written {{page.date | date_to_string}}</p>
 			{% endif %}
 		</div>
 		
-
-		{% if false and page.date and (page.previous or page.next) %}
+		{% if page.has_pager %}
 			<div class="bg-near-white cf">
 				{% if page.previous %}
 					<p class="
@@ -92,7 +92,7 @@
 						w-100 h2 tc ph4 pv2
 						w-50-l fr-l tr-l
 						near-black no-underline">
-								Newer: {{page.next.title}} &rarr;
+							Newer: {{page.next.title}} &rarr;
 						</p>
 					</a>
 				{% endif %}
