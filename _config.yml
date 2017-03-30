@@ -2,15 +2,22 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 title: "Canning Road"
-#url: "https://stegriff.github.io/canning-road-jekyll/"
-url: http://stegriff.co.uk/test/canning-road/
+
+# This is an unusual way to configure jekyll but I'm running with it
+# Must have a slash / at the end:
+url: https://stegriff.github.io/canning-road-jekyll/
+
+# Simple permalinks with no dates
 permalink: /post/:title/
+
+# Define our collections (output means they get their own pages too)
 collections:
  services:
   output : true
  activities:
   output : true
 
+# Set default.html as default layout, and set has_pager on all bloggy posts
 defaults:
   -
     scope:
@@ -24,6 +31,7 @@ defaults:
     values:
       has_pager: true
 
+# Includes
 gems:
   - jekyll-optional-front-matter
   - jekyll-default-layout
