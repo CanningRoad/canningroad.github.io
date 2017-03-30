@@ -21,7 +21,9 @@ h1,h2,h3
 
 .bg-congregation
 {
-	background: url("../img/congregation2.jpg") no-repeat center center;
+	background:
+		linear-gradient(to bottom, transparent, rgba(124, 44, 165, 0.1)),
+		url("../img/congregation2.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -40,7 +42,7 @@ h1,h2,h3
 		width: 16rem; /* .w5 */
 		float: right; /* .fr */
 		margin: 1rem; /* .m1 */
-		padding: 2px; /* artistic... */
+		padding: .25rem; /* .p1 */
 	}
 }
 
