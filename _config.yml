@@ -3,9 +3,12 @@
 
 title: "Canning Road"
 
-# This is an unusual way to configure jekyll but I'm running with it
-# Must have a slash / at the end:
-url: https://stegriff.github.io/canning-road-jekyll/
+# site.url is the host bit
+url: https://stegriff.github.io
+
+# site.baseurl is the subdirectory which the website will always be served from (local and live)
+# Please terminate me in a slash '/', or use just '/' for root
+baseurl: /canning-road-jekyll/
 
 # Simple permalinks with no dates
 permalink: /post/:title/

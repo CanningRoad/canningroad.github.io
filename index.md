@@ -9,7 +9,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
 
 	{% for service in site.services %}
-		<a class="no-underline" href="{{site.url}}{{service.url}}">
+		<a class="no-underline" href="{{site.baseurl}}{{service.url}}">
 			<div class="w5 h4 pa3
 				ma2 mr4-l
 				bg-blue white tc grow hover-bg-dark-blue">
@@ -33,7 +33,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
 
 	{% for act in site.activities %}
-		<a class="no-underline" href="{{site.url}}{{act.url}}">
+		<a class="no-underline" href="{{site.baseurl}}{{act.url}}">
 			<div class="w5 h4 pa3
 				ma2 mr4-l
 				bg-regal white tc grow hover-bg-darkregal">

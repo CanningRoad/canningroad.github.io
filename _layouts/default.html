@@ -9,8 +9,8 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet"> 
-<link rel="stylesheet" href="{{site.url}}/css/tachyons.css">
-<link rel="stylesheet" href="{{site.url}}/css/custom.css">
+<link rel="stylesheet" href="{{site.baseurl}}css/tachyons.css">
+<link rel="stylesheet" href="{{site.baseurl}}css/custom.css">
 <style>
 
 </style>
@@ -23,10 +23,10 @@
 	<header class="bg-cloud">
 		<div class="w5 center pt4">
 			<a href="{{site.url}}/">
-				<img class="" src="{{site.url}}/img/logo-filled-512.png" alt="A sketch of the church" />
+				<img class="" src="{{site.baseurl}}/img/logo-filled-512.png" alt="A sketch of the church" />
 			</a>
 		</div>
-		<a class="no-underline near-black outline-transparent" href="{{site.url}}/">
+		<a class="no-underline near-black outline-transparent" href="{{site.baseurl}}">
 			<h1 class="w-100-l tc">Canning Road Evangelical Church</h1>
 		</a>
 
@@ -44,7 +44,7 @@
 				flex-l">
 					{% for navitem in site.data.navitems %}
 						<li class="tc item-grow">
-							<a class="black no-underline" href="{{navitem.link}}">
+							<a class="black no-underline" href="{{site.baseurl}}{{navitem.link}}">
 								{{navitem.title}}
 							</a>
 						</li>
