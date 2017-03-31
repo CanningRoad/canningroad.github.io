@@ -9,7 +9,7 @@ Have a look and see if any of these things might be for you:
 <div class="w-100 pv2 w-50-l fl-l">
 	<h2>Services</h2>	
 	{% for service in site.services %}
-		<a class="no-underline near-black" href="{{site.url}}/{{service.url}}">
+		<a class="no-underline near-black" href="{{site.baseurl}}{{service.url}}">
 			<div class="pv1 ph3
 				ma2 mr4-l
 				ba bw1
@@ -33,7 +33,7 @@ Have a look and see if any of these things might be for you:
 <div class="w-100 pv2 w-50-l fl-l">
 	<h2>Events</h2>	
 	{% for activity in site.activities %}
-		<a class="no-underline near-black" href="{{site.url}}/{{activity.url}}">
+		<a class="no-underline near-black" href="{{site.baseurl}}{{activity.url}}">
 			<div class="pv1 ph3
 				ma2 mr4-l
 				ba bw1
