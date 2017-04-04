@@ -53,7 +53,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
 
 	{% for post in site.posts %}
-		<a class="no-underline near-black" href="{{post.url}}">
+		<a class="no-underline near-black" href="{{site.baseurl}}{{post.url}}">
 			<div class="pv1 ph3
 				ma2 mr4-l
 				ba bw1

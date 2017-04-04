@@ -56,9 +56,8 @@
 	</header>
 
 	<main>
-		<div class="pa3
-			bg-congregation">
-			
+		<div class="bg-congregation">
+			<div class="pa3 filter filter-regal">
 			{% if page.intro %}
 				<p class="f3 measure-wide center">{{ page.intro }}</p>
 			{% elsif page.longname %}
@@ -70,28 +69,28 @@
 			{% if page.has_pager %}
 				<p class="f4 tc">Written {{page.date | date_to_string}}</p>
 			{% endif %}
+			</div>
 		</div>
 		
 		{% if page.has_pager %}
 			<div class="bg-near-white cf">
 				{% if page.previous %}
-					<p class="
-					w-100 h2 tc ph4 pv2
-					w-50-l fl-l tl-l
-					near-black no-underline
-					hover-bg-moon-gray grow">
-						<a href="{{page.previous.url}}">
+					<a href="{{site.baseurl}}{{page.previous.url}}">
+						<p class="
+						w-100 h2 tc ph4 pv2
+						w-50-l fl-l tl-l
+						near-black underline">
 							&larr; Older: {{page.previous.title}}
-						</a>
-					</p>
+						</p>
+					</a>
 				{% endif %}
 				
 				{% if page.next %}
-					<a href="{{page.next.url}}">
+					<a href="{{site.baseurl}}{{page.next.url}}">
 						<p class="
 						w-100 h2 tc ph4 pv2
 						w-50-l fr-l tr-l
-						near-black no-underline">
+						near-black underline">
 							Newer: {{page.next.title}} &rarr;
 						</p>
 					</a>
@@ -104,7 +103,7 @@
 		</div>
 	</main>
 	
-	<footer class="h2 w-100 bg-near-white tc pv1 mv1">
+	<footer class="h2 w-100 bg-near-white tc pv1 mt1">
 		<small>Canning Road Evangelical Church, Canning Road, Southport, PR9 7SS &ndash; 01704 227755 </small>
 	</footer>
 	

@@ -21,10 +21,30 @@ h1,h2,h3
 
 .bg-congregation
 {
-	background:
-		linear-gradient(to bottom, transparent, rgba(124, 44, 165, 0.1)),
-		url("../img/congregation2.jpg") no-repeat center center;
+	background: url("../img/congregation2.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.filter
+{
+	position: relative;
+}
+.filter::before
+{
+	content: "";
+    display: block;
+	position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.1;
+}
+
+.filter-regal::before
+{
+	background-image: -webkit-linear-gradient(top, transparent, #7c2ca5);
+	background-image: linear-gradient(to bottom, transparent, #7c2ca5);
 }
 
 .bg-building
@@ -50,6 +70,7 @@ h1,h2,h3
 @media screen and (min-width:60em){
 	.bg-nav-l
 	{
+		border-color: #fff;
 		border-width: 23px 44px;
 		border-image: url("../img/nav-rail.png") 23 44 23 44 fill repeat;
 		/*border-image-outset: 10px 44px;*/

@@ -8,7 +8,7 @@ It can be hard to get by on a low-paying job or benefits. The food bank is here 
 
 ## What's it like?
 
-You can come to the foodbank and either grab the parcel, or maybe stay for a cup of tea or coffee...
+You can come to the foodbank and just pick up your food parcel, or maybe stay for a cup of tea or coffee...
 
 ### If you have time for a cuppa:
 
