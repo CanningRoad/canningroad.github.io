@@ -2,6 +2,6 @@
 	{title : "Home", link : "/"},
 	{title : "About us", link : "/about/"},
 	{title : "Services & Events", link : "/services/"},
-	{title : "News", link : "#"},
-	{title : "Sermons & Resources", link : "#"}	
+	{title : "News", link : "/news/"},
+	{title : "Sermons & Resources", link : "/resources/"}	
 ]

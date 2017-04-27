@@ -4,11 +4,11 @@ about: Supplying food for those on benefits and in need
 when: Fridays at 5pm
 ---
 
-It can be hard to get by on a low-paying job or benefits. The food bank is here to help out by providing free food which you can take away, which has been provided by local businesses through a charity called the [Trussel Trust][trussel]. The foodbank is held in our schoolroom (the big green building), and all of us are volunteers who give up our time to help the neighbourhood.
+It's hard to get by on a low-paying job or benefits. The food bank is here to help out by providing free food which you can take away, which has been provided by local businesses and charitable givers. The foodbank is held in our schoolroom (the big green building), and all of us are volunteers who give up our time to help the neighbourhood.
 
 ## What's it like?
 
-You can come to the foodbank and just pick up your food parcel, or maybe stay for a cup of tea or coffee...
+You can come to the foodbank and stay for a cup of tea or coffee, or just pick up your food parcel:
 
 ### If you have time for a cuppa:
 
@@ -28,7 +28,7 @@ You can come to the foodbank and just pick up your food parcel, or maybe stay fo
 
 ## The food
 
-The food which we give is a three-day parcel of [nutritionally balanced, non-perishable food][thefood].
+The food which we give is a three-day parcel of nutritionally balanced, non-perishable food.
 
 
 ## Why can't you deliver?
@@ -40,12 +40,4 @@ Unfortunately, we can't deliver to everybody. And if we can't deliver to everybo
 
 Members of the church can volunteer to help with the food bank. If you're a believing Christian, and you want to take part, please come and talk to us about it on a Friday or a Sunday morning.
 
-If you want to help supply the foodbank, please talk to us or give to the Trussel Trust.
-
-### Key people to talk to
-
-Gabriel, Liliana, Lionel
-
- 
-[trussel]: https://www.trusselltrust.org/
-[thefood]: https://www.trusselltrust.org/get-help/emergency-food/food-parcel/
+If you want to help supply the foodbank, please talk to us. Some key volunteers are: Gabriel, Liliana, and Lionel.
