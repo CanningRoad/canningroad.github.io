@@ -8,7 +8,7 @@ url: https://stegriff.github.io
 
 # site.baseurl is the subdirectory which the website will always be served from (local and live)
 # Please terminate me in a slash '/', or use just '/' for root
-baseurl: /canning-road-jekyll/
+baseurl: /
 
 # Simple permalinks with no dates
 permalink: /post/:title/
