@@ -11,6 +11,9 @@ The prayer and praise meeting is a time for church members to get together, to t
 
 If you're still getting to grips with church or looking to come back after a long time, you might prefer to try out our [morning service][ms] or [Sunday at Six][sas] before diving into the prayer meeting.
 
+[ms]: /services/familyservice/
+[sas]: /services/sundayatsix/
+
 ## What's it like?
 
 The prayer meeting is led by a different church member each week, and each brings their own flavour to it. It lasts an hour. The leader will introduce different sections to help guide the group in prayer, but this is to enable the group rather than restrict it. Prayer is a converssation with our heavenly father and we are always free to talk to him about what is on our hearts. We often scatter a few songs throughout the time, giving praise to God for his goodness.

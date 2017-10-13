@@ -8,7 +8,7 @@ It's hard to get by on a low-paying job or benefits. The food bank is here to he
 
 ## What's it like?
 
-You can come to the foodbank and stay for a cup of tea or coffee, or just pick up your food parcel:
+You can come to the foodbank and stay for a cup of tea or coffee, or just pick up your bags of food:
 
 ### If you have time for a cuppa:
 
@@ -16,19 +16,19 @@ You can come to the foodbank and stay for a cup of tea or coffee, or just pick u
  * Inside there are tables to sit and chat
  * We have tea and biscuits to enjoy
  * We would love to talk to you about anything and everything
- * You can get your food parcel from the service table anytime (please show either a food bank voucher or proof of benefits)
+ * You can get your food from the service table anytime (please be ready to show a proof of benefits when you first sign up)
 
 ### If you just want to pick up the food:
 
  * Come inside through our door on the Canning Road side of the schoolroom
  * Come to the service tables at the end of the room
- * Please show either a food bank voucher or proof of benefits
- * Our volunteers would love to give you your food parcel
+ * You will need to show proof of benefits when you first sign up
+ * Our volunteers would love to give you your food
 
 
 ## The food
 
-The food which we give is a three-day parcel of nutritionally balanced, non-perishable food.
+The food which we give includes baked goods from a local bakery (including pies, breads, and sweet pastries), and any tins or other essentials which have been donated to us.
 
 
 ## Why can't you deliver?

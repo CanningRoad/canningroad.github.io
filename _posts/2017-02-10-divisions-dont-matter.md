@@ -1,6 +1,5 @@
 ---
 title: Divisions don't matter
-photo: 
 ---
 
 A lot of people talk about "denominations" which means "different names for types of churches". That could be 'Anglican' or 'Methodist' or 'Reformed' or 'Baptist', etc, etc... but those names don't really matter. Christian churches believe:

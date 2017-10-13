@@ -9,8 +9,8 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet"> 
-<link rel="stylesheet" href="{{site.baseurl}}css/tachyons.css">
-<link rel="stylesheet" href="{{site.baseurl}}css/custom.css">
+<link rel="stylesheet" href="/css/tachyons.css">
+<link rel="stylesheet" href="/css/custom.css">
 <style>
 
 </style>
@@ -22,11 +22,11 @@
 
 	<header class="bg-cloud">
 		<div class="w5 center pt4">
-			<a href="{{site.baseurl}}">
-				<img class="" src="{{site.baseurl}}img/logo-filled-512.png" alt="A sketch of the church" />
+			<a href="/">
+				<img class="" src="/img/logo-filled-512.png" alt="A sketch of the church" />
 			</a>
 		</div>
-		<a class="no-underline near-black outline-transparent" href="{{site.baseurl}}">
+		<a class="no-underline near-black outline-transparent" href="/">
 			<h1 class="w-100-l tc">Canning Road Evangelical Church</h1>
 		</a>
 
@@ -44,7 +44,7 @@
 				flex-l">
 					{% for navitem in site.data.navitems %}
 						<li class="tc item-grow">
-							<a class="black no-underline" href="{{site.baseurl}}{{navitem.link}}">
+							<a class="black no-underline" href="/{{navitem.link}}">
 								{{navitem.title}}
 							</a>
 						</li>
@@ -75,7 +75,7 @@
 		{% if page.has_pager %}
 			<div class="bg-near-white cf">
 				{% if page.previous %}
-					<a href="{{site.baseurl}}{{page.previous.url}}">
+					<a href="/{{page.previous.url}}">
 						<p class="
 						w-100 h2 tc ph4 pv2
 						w-50-l fl-l tl-l
@@ -86,7 +86,7 @@
 				{% endif %}
 				
 				{% if page.next %}
-					<a href="{{site.baseurl}}{{page.next.url}}">
+					<a href="/{{page.next.url}}">
 						<p class="
 						w-100 h2 tc ph4 pv2
 						w-50-l fr-l tr-l

@@ -3,7 +3,7 @@ title: About us
 longname: Our church and what we believe
 ---
 
-![A photo of church family]({{site.baseurl}}img/church-family.jpg)
+![A photo of church family](/img/church-family.jpg)
 
 ## What we're about
 
