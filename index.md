@@ -1,7 +1,7 @@
 ---
 title: Welcome
 intro: >
-  <b>Church is a family, not a building!</b> We're a welcoming Christian church based on the corner of Canning Road and Milton Street. We believe Jesus is the hope for the world and we want to share that real and lasting joy with you.
+  <b>Church is a family, not a building!</b> We're a welcoming Christian church based on the corner of Canning Road and Newton Street. We believe Jesus is the hope for the world and we want to share that real and lasting joy with you.
 ---
 ## Our regular meetings
 We have a regular Sunday morning service as well as other events throughout the week. Click on one of our services for more information.
