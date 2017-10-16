@@ -32,12 +32,10 @@
 
 		<div class="
 		ma3-l
-		
 		bg-nav-l
 		bw1 bb bl-l br-l">
 			<nav class="
 			mt3
-			
 			f3 garamond b no-underline">
 				<ul class="list
 				pl0 mv0-ns
@@ -56,7 +54,10 @@
 	</header>
 
 	<main>
-		<div class="bg-congregation">
+		<div
+			class="bg-photo bg-congregation"
+			{% if page.cover %} style="background-image: url({{page.cover}});" {% endif %}
+			>
 			<div class="pa3 filter filter-regal">
 			{% if page.intro %}
 				<p class="f3 measure-wide center">{{ page.intro }}</p>
@@ -75,7 +76,7 @@
 		{% if page.has_pager %}
 			<div class="bg-near-white cf">
 				{% if page.previous %}
-					<a href="/{{page.previous.url}}">
+					<a href="{{page.previous.url}}">
 						<p class="
 						w-100 h2 tc ph4 pv2
 						w-50-l fl-l tl-l
@@ -86,7 +87,7 @@
 				{% endif %}
 				
 				{% if page.next %}
-					<a href="/{{page.next.url}}">
+					<a href="{{page.next.url}}">
 						<p class="
 						w-100 h2 tc ph4 pv2
 						w-50-l fr-l tr-l

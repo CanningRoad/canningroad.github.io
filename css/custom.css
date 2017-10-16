@@ -19,10 +19,16 @@ h1,h2,h3
 	background-size: 600px;
 }
 
+.bg-photo
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
 .bg-congregation
 {
-	background: url("../img/congregation2.jpg") no-repeat center center;
-	background-size: cover;
+	background-image: url("../img/congregation2.jpg");
 }
 
 .filter
