@@ -4,7 +4,7 @@ audience: All welcome
 when: First Sunday of each month at 6pm
 ---
 
-<img class="fr-l w5-l" src="{{site.url}}/img/sunday-at-six.png" alt="Sunday At Six logo" />
+<img class="fr-l w5-l" src="/img/sunday-at-six.png" alt="Sunday At Six logo" />
 
 Sometimes people think church is a boring place, where you sit in a pew, sing hymns, and fall asleep in the sermon. But church is supposed to be real people living their lives together for a greater good -- our amazing God.
 

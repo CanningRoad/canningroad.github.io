@@ -2,7 +2,7 @@
 title: Messy Church
 audience: For families
 when: Saturdays, every three months
-nextevent: Date To Be Confirmed
+nextevent: Early 2018 (TBC)
 ---
 
 Messy Church is a fun way for families with younger kids to get into God's house and have a great time. We have a different theme each service that teaches us something about God, like how he is the creator, or our father, or our friend.
@@ -23,7 +23,7 @@ When that's done, it's dinner time, and everyone is welcome to stay for a free m
 ## When can I come?
 
 {% if page.nextevent %}
-The next Messy Church is on {{ page.nextevent }}.
+The next Messy Church is {{ page.nextevent }}.
 {% endif %}
 
 Messy Church is on a Saturday afternoon at 4pm, and we do it roughly every six weeks. Come and ask us on a [Sunday morning][sm] or keep your eye on this website for more information.

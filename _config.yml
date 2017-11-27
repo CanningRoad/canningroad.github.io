@@ -38,6 +38,7 @@ defaults:
 gems:
   - jekyll-optional-front-matter
   - jekyll-default-layout
+  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
