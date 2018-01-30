@@ -55,21 +55,11 @@ We have a regular Sunday morning service as well as other events throughout the 
 ## Other events
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
-
 	{% for act in site.activities %}
-		<a class="no-underline" href="{{act.url}}">
-			<div class="w5 h4 pa3
-				ma2 mr4-l
-				bg-regal white tc grow hover-bg-darkregal">
-				
-				<p class="mv1"><strong>{{act.title}}</strong></p>
-				<p class="mv1">{{act.about}}</p>
-				<p class="mv1">{{act.when}}</p>
-				
-			</div>
-		</a>
+		{% 	include activity-button.html
+			activity=act
+			%}
 	{% endfor %}
-
 </div>	
 
 ## Recent Posts

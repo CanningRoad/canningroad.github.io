@@ -2,9 +2,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 title: "Canning Road"
-
-# site.url is the host bit
-url: https://stegriff.github.io
+encoding: UTF-8
 
 # site.baseurl is the subdirectory which the website will always be served from (local and live)
 # Please terminate me in a slash '/', or use just '/' for root
