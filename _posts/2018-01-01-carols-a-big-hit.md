@@ -1,9 +1,9 @@
 ---
 title: Carols a big hit
-photo: /photo/candle.jpg
+photo: /photo/carols-people.jpg
 ---
 
-## 2017 Carols by Candlelight service in review
+<img alt="People at the halloween witness" src="/photo/carols-people.jpg" class="w-100 fr-l w-40-l">
 
 It was lovely to see so many of our old and new friends come along to our candlelit carol service. We all had a great time in the warm and festive surroundings, and it was a joy to kick Christmas off with true songs of how God showed his goodness by being born for us on Earth.
 

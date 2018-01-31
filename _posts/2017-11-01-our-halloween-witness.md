@@ -1,5 +1,6 @@
 ---
 title: Our Halloween Witness
+photo: /photo/hallow1.jpg
 ---
 
 It's tricky to know how to handle Halloween as Christians and as the church. We don't want to participate in a festival that celebrates darkness and evil, but ideally we don't want to be hidden away in our homes with the lights off - after all, that's not much of a witness from a people whose life, hope, and strength is in Jesus.

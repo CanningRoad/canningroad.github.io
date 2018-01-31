@@ -3,8 +3,6 @@ title: Our first indoor picnic of 2018
 photo: /photo/pie.jpg
 ---
 
-## Our first indoor picnic of 2018
-
 From time to time, we like to share lunch together as a church. There are loads of good reasons to do this, like:
 
  * Showing and sharing generosity
