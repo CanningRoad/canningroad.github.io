@@ -103,6 +103,17 @@
        fx="230.7513"
        fy="942.27667"
        r="234.8828" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4776"
+       id="radialGradient4808"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2891696,0,0,0.75297076,-38.541983,318.5173)"
+       cx="230.7513"
+       cy="942.27667"
+       fx="230.7513"
+       fy="942.27667"
+       r="234.8828" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -113,7 +124,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.84613797"
      inkscape:cx="330.82666"
-     inkscape:cy="388.28523"
+     inkscape:cy="147.78041"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -140,6 +151,455 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <g
+       id="g4944"
+       inkscape:export-filename="C:\Projects\ste\CanningRoadOperations\images\welcome-letterhead.png"
+       inkscape:export-xdpi="90.114471"
+       inkscape:export-ydpi="90.114471">
+      <path
+         style="opacity:1;vector-effect:none;fill:url(#radialGradient4808);fill-opacity:1;stroke:none;stroke-width:0.46875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 241.29982,848.16735 C 193.2935,848.48564 85.397336,851.5956 52.492146,934.64203 19.586953,1017.6885 27.421344,1027.8738 27.421344,1027.8738 H 675.34058 c 0,0 -1.56735,-60.32681 -154.34144,-124.57028 -119.35475,-50.1902 -231.69301,-55.45446 -279.69932,-55.13617 z"
+         id="path4693"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="zsccsz" />
+      <g
+         id="g4796"
+         transform="matrix(0.50789655,0,0,0.50397366,68.666502,859.68344)"
+         style="stroke-width:1.97655284">
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4695"
+           d="m 156.96539,214.17336 11.9363,3.8366 6.7819,7.2083 -18.5244,4.8055 z"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.97655284px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 280.32029,123.78776 0.1342,0.1739 v 22.747 l 5.5127,4.924 v -21.4018 z"
+           id="path4697"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="M -88.207828,334.95756 H 158.0379"
+           id="path4699"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 271.37289,99.74576 c -0.9855,0 -0.9067,1.5534 -0.9067,1.5534 v 2.3579 c -1.0463,0.3808 -1.7431,1.3749 -1.7441,2.4883 0,1.1129 0.6983,2.1063 1.7441,2.4868 v 2.4174 l 1.8134,2.3442 v -4.7608 c 1.0457,-0.381 1.7421,-1.3746 1.7433,-2.4876 0,-1.1126 -0.6978,-2.106 -1.7433,-2.4867 v -2.3595 c 0,0 0.079,-1.5534 -0.9067,-1.5534 z"
+           id="path4701"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:connector-curvature="0"
+           id="path4703"
+           d="m 376.35449,237.17876 -30.5268,97.4749 h 54.8237 v -68.2639 l -4.3946,-6.7207 v -5.6875 z"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4707"
+           d="m 369.48929,284.41906 c -0.5725,11.5142 -1.2195,23.4608 -1.6114,33.8164 -0.2285,6.0389 -0.3061,10.4463 -0.4824,15.998 l 3.6895,-0.0742 z"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4709"
+           d="m 269.85649,110.26276 -11.8907,14.9922 v 21.7129 l -96.9336,79.8731 -10.5664,111.7695 216.9297,-4.377 c 0.1763,-5.5517 0.2539,-9.9591 0.4824,-15.998 0.3919,-10.3556 1.0389,-22.3022 1.6114,-33.8164 l -1.9239,-59.9043 -87.1113,-77.8067 v -22.746 z"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 322.54669,345.81176 v -102.3791 h -149.9742 v 102.3791"
+           id="path4711"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4713"
+           d="m 219.06369,333.48836 2.5849,-47.1741 22.3592,-19.2574 7.1085,-0.7755 24.8148,17.8357 3.1019,49.242"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4715"
+           d="m 262.74819,141.60376 h 12.4075 l -3.425,-0.4524 v -17.1895 l -2.243,-1.295 -4.93,3.5568 h 1.0339 v 14.9277 z"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 224.90719,239.28666 v -24.62 h 11.4201 v 7.5639"
+           id="path4717"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4719"
+           d="m 242.86749,242.84616 v -28.1795 h 11.4202 v 19.8739"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           sodipodi:nodetypes="cccc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 261.60879,243.14276 v -28.4761 h 11.4201 v 28.3278"
+           id="path4721"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4723"
+           d="m 291.77009,241.80796 v -27.1413 h -11.4201 v 18.0942"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           sodipodi:nodetypes="cccc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 310.51139,240.91816 v -26.2515 h -11.4202 v 12.31"
+           id="path4725"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 231.63979,231.31296 v -16.7608"
+           id="path4727"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 224.89579,221.27486 h 11.3878"
+           id="path4729"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4731"
+           d="m 249.60009,238.65176 v -24.0996"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4733"
+           d="m 242.85619,221.27486 h 11.3877"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 268.34139,241.51976 v -26.9676"
+           id="path4735"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 261.59739,221.27486 h 11.3877"
+           id="path4737"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4739"
+           d="m 287.08259,231.31296 v -16.7608"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4741"
+           d="m 280.33859,221.27486 h 11.3878"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 305.82379,231.31296 v -16.7608"
+           id="path4743"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 299.07989,221.27486 h 11.3877"
+           id="path4745"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 227.50359,335.04706 1.2584,-43.837 19.5065,-16.3602 20.5551,15.731 v 44.0467 z"
+           id="path4748"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 268.49749,154.45846 -4.7982,5.2471 v 0.091 28.9814 h 9.6932 v -29.0515 -0.049 z"
+           id="path4750"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:connector-curvature="0"
+           id="path4752"
+           d="m 268.24939,150.70426 -7.7216,7.2164 v 0.107 33.1209 h 15.599 l -0.01,-33.2037 v -0.057 z"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           d="m 322.54669,243.43266 9.5945,2.5708 v 96.8336 l -9.8424,2.9747 z"
+           id="path4754"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4756"
+           d="m 161.31229,217.56976 -3.3814,121.5494 h -56.34363 43.67803 v -34.7325 l 3.3604,-4.1358 v -37.5052 l 2.451,-2.6503 v -43.5013 l 5.6077,-6.6611"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           sodipodi:nodetypes="cccccccccc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4758"
+           d="m 156.38029,210.03846 9.5641,2.0679 4.3943,6.85 -8.6594,-0.9047 z"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4760"
+           d="m 381.84249,334.24216 v -34.7667 l -4.0531,-3.1019 v -34.359 l -2.0849,-3.1072 v -43.5014 l -4.0519,-6.2145 -4.1507,5.8489 v 119.9029"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 248.45129,275.05496 v 59.7217"
+           id="path4762"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 396.23849,254.12306 -20.5074,-10.062"
+           id="path4764"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 267.43549,124.20446 v 16.8676"
+           id="path4766"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4768"
+           d="m 331.80309,342.86026 h 98.76765"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4770"
+           d="M 331.96379,334.95756 H 1271.0987"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.95310569;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 160.76629,229.58426 98.0543,-80.685"
+           id="path4772"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 280.17119,148.87096 87.1634,77.8085"
+           id="path4774"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 174.48499,243.56886 v 71.0006"
+           id="path4776"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 320.68629,243.27196 v 39.6223"
+           id="path4778"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 322.38909,245.20756 H 172.77929"
+           id="path4780"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 266.05319,157.43826 v 30.4031"
+           id="path4782"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 243.69329,278.82586 v 34.6594"
+           id="path4784"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 238.22709,283.47716 v 37.5366"
+           id="path4786"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 232.76089,288.35456 v 25.1279"
+           id="path4788"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4790"
+           d="m 253.06389,278.82586 v 49.0304"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4792"
+           d="m 258.53009,283.05036 v 37.5365"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png"
+           inkscape:export-ydpi="138.69"
+           inkscape:export-xdpi="138.69"
+           inkscape:connector-curvature="0"
+           id="path4794"
+           d="m 263.99629,287.28566 v 39.5422"
+           style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.97655284;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4804"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.9375,0,0,0.9375,-5.70923,228.05483)"><flowRegion
+           id="flowRegion4800"><rect
+             id="rect4798"
+             width="397.90298"
+             height="58.575809"
+             x="318.8746"
+             y="750.11139" /></flowRegion><flowPara
+           id="flowPara4802"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:'Garamond Bold'">Welcome to our family!</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:'Garamond Bold'"
+           id="flowPara4810" /></flowRoot>      <flowRoot
+         transform="matrix(0.9375,0,0,0.9375,-5.70923,261.80483)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4820"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4814"><rect
+             y="750.11139"
+             x="318.8746"
+             height="58.575809"
+             width="397.90298"
+             id="rect4812" /></flowRegion><flowPara
+           id="flowPara4818"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;font-family:Garamond;-inkscape-font-specification:'Garamond Bold'">Canning Road Evangelical Church</flowPara></flowRoot>    </g>
     <circle
        style="opacity:1;vector-effect:none;fill:url(#linearGradient4620);fill-opacity:1;stroke:#000000;stroke-width:0.46875003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4584"
@@ -565,13 +1025,13 @@
     <image
        sodipodi:absref="C:\Projects\ste\ChurchWebsite\resources\../img/cloud1.png"
        xlink:href="../img/cloud1.png"
-       style="stroke-width:2.94009161"
-       width="374.13797"
-       height="101.18732"
-       preserveAspectRatio="none"
-       id="image4594"
+       y="131.40039"
        x="341.16357"
-       y="131.40039" />
+       id="image4594"
+       preserveAspectRatio="none"
+       height="101.18732"
+       width="374.13797"
+       style="stroke-width:2.94009161" />
     <rect
        style="opacity:1;vector-effect:none;fill:#96ccff;fill-opacity:0.58823532;stroke:#000000;stroke-width:0.46875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4597"
@@ -1013,7 +1473,8 @@
     <g
        id="g4848"
        inkscape:export-xdpi="181.2"
-       inkscape:export-ydpi="181.2">
+       inkscape:export-ydpi="181.2"
+       transform="translate(0,-37.671161)">
       <path
          sodipodi:nodetypes="zsccsz"
          inkscape:connector-curvature="0"
@@ -1444,5 +1905,12 @@
              id="rect4699" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:'Garamond Bold'"
            id="flowPara4701">Canning Road Evangelical Church</flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:0.58999999;vector-effect:none;fill:#ffe53f;fill-opacity:0.90667892;stroke:none;stroke-width:0.46875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4946"
+       width="77.558273"
+       height="108.58159"
+       x="-161.7644"
+       y="918.29724" />
   </g>
 </svg>

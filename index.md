@@ -84,3 +84,5 @@ We have a regular Sunday morning service as well as other events throughout the 
 	{% endfor %}
 
 </div>	
+
+<p><small>Pages version</small></p>
