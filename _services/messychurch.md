@@ -2,7 +2,7 @@
 title: Messy Church
 audience: For families
 when: Saturdays, every three months
-nextevent: Early 2018 (TBC)
+nextevent: 10th March 2018
 ---
 
 Messy Church is a fun way for families with younger kids to get into God's house and have a great time. We have a different theme each service that teaches us something about God, like how he is the creator, or our father, or our friend.
