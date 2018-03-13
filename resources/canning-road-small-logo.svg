@@ -122,9 +122,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.84613797"
-     inkscape:cx="330.82666"
-     inkscape:cy="147.78041"
+     inkscape:zoom="0.49136218"
+     inkscape:cx="1072.6238"
+     inkscape:cy="592.90997"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1025,13 +1025,13 @@
     <image
        sodipodi:absref="C:\Projects\ste\ChurchWebsite\resources\../img/cloud1.png"
        xlink:href="../img/cloud1.png"
-       y="131.40039"
-       x="341.16357"
-       id="image4594"
-       preserveAspectRatio="none"
-       height="101.18732"
+       style="stroke-width:2.94009161"
        width="374.13797"
-       style="stroke-width:2.94009161" />
+       height="101.18732"
+       preserveAspectRatio="none"
+       id="image4594"
+       x="341.16357"
+       y="131.40039" />
     <rect
        style="opacity:1;vector-effect:none;fill:#96ccff;fill-opacity:0.58823532;stroke:#000000;stroke-width:0.46875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4597"
@@ -1905,12 +1905,5 @@
              id="rect4699" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Garamond;-inkscape-font-specification:'Garamond Bold'"
            id="flowPara4701">Canning Road Evangelical Church</flowPara></flowRoot>    </g>
-    <rect
-       style="opacity:0.58999999;vector-effect:none;fill:#ffe53f;fill-opacity:0.90667892;stroke:none;stroke-width:0.46875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4946"
-       width="77.558273"
-       height="108.58159"
-       x="-161.7644"
-       y="918.29724" />
   </g>
 </svg>
