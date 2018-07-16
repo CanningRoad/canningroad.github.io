@@ -1,6 +1,7 @@
 ---
 title: Did you enjoy the neighbourhood BBQ?
 photo: /photo/bbq-2018-1.jpg
+cover: /photo/bbq-cover.jpg
 ---
 
 <img alt="Enjoying the sunshine, bouncy castle, and BBQ" src="/photo/bbq-2018-2.jpg" class="w-100 fr-l w-40-l mv0-ns">

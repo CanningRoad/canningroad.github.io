@@ -56,7 +56,9 @@
 	<main>
 		<div
 			class="bg-photo bg-congregation"
-			{% if page.cover %} style="background-image: url({{page.cover}});" {% endif %}
+			{% if page.cover %}
+			style="background-image: linear-gradient(to bottom, rgba(255,255,255, 0.4), rgba(255,255,255, 0.5)), url({{page.cover}});"
+			{% endif %}
 			>
 			<div class="pa3 filter filter-regal">
 			{% if page.intro %}
