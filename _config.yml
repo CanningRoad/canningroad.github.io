@@ -38,7 +38,7 @@ defaults:
       live: true
 
 # Includes
-gems:
+plugins:
   - jekyll-optional-front-matter
   - jekyll-default-layout
   - jekyll-feed
