@@ -35,7 +35,7 @@ If you need extra help with basic needs, shopping, or would like a doorstep visi
 
 ## Food bank
 
-While there are fit and able helpers, a food bank service of sorts will still operate on Fridays from 5:15pm. The usual care packages will be given from a table outside the building, and we ask guests not to gather in groups. If we’re not able to staff the food bank, this will be announced [on Facebook][fb].
+Unfortunately, food bank is suspended until further notice. If you are in real need of food, you can try to connect with local food banks run by the Trussel Trust, or leave a message on the church answerphone at 01704 227 755 and Gabriel will try to get back to you.
 
 ## Coffee Time
 Coffee time is suspended until further notice. We hope to keep everyone in touch over the phone.
@@ -57,7 +57,7 @@ Alpha and CAP Money Course are cancelled, and our outreach plans will be paused 
 
 ## Key points, in closing
 
- * Don’t go to the church building except for Food bank.
+ * Don’t go to the church building - there are no services or activities.
  * Check out the online and broadcast content from other churches.
  * If you’re struggling and need help with shopping or would like a doorstep visit, please get in touch.
 
