@@ -11,6 +11,8 @@ baseurl: /
 # Simple permalinks with no dates
 permalink: /post/:title/
 
+crisis: true
+
 # Define our collections (output means they get their own pages too)
 collections:
  services:
