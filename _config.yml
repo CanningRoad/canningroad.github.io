@@ -44,6 +44,7 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-default-layout
   - jekyll-feed
+  - jekyll-target-blank
 exclude:
   - Gemfile
   - Gemfile.lock

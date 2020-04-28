@@ -10,4 +10,4 @@ longname: Handy links for things to read, watch, and listen to.
  
  
 [htba]: https://castbox.fm/vb/245432066
-[ccsforward]: https://youtu.be/68ay6VUZ3uw?t=1414
+[ccsforward]: https://youtu.be/68ay6VUZ3uw?t=1410
