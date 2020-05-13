@@ -1,0 +1,32 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: 'photo'
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Photo', name: 'photo', widget: 'image', allow_multiple: false, hint: 'Thumbnail image to go next to post in list view', required:false }
+      - { label: 'Cover', name: 'cover', widget: 'image', allow_multiple: false, hint: 'Cover photo to go at the top of the post', required:false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'activities'
+    label: 'Activities'
+    folder: '_activities/'
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'About', name: 'about', widget: 'string' }
+      - { label: 'When', name: 'when', widget: 'string' }
+      - { label: 'Live', name: 'live', widget: 'boolean', default: true }
+      - { label: 'Permalink', name: 'permalink', widget: 'string', required:false, hint: 'Optional short link to give a post a nicer url. Example /alpha/' }
+      - { label: 'Cover', name: 'cover', widget: 'image', allow_multiple: false, hint: 'Cover photo to go at the top of the activity page' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
