@@ -1,8 +1,8 @@
 ---
 title: The Marriage Course Online
 date: 2020-05-14T13:10:14.274Z
-photo: /photo/tmc-fb-cover-100.jpg
-cover: /photo/tmc-logo-2019.png
+photo: /photo/tmc-logo-2019.png
+cover: /photo/tmc-fb-cover-100.jpg
 ---
 We're really excited to announce that Ste and Helen will be running the Marriage Course online!
 
