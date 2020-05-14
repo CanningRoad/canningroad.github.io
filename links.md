@@ -4,9 +4,11 @@ longname: Handy links for things to read, watch, and listen to.
 ---
 ## Resources from church letter 15th May 2020
 
-* The Blessing UK 
+* The Blessing UK
 
-  \
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUtll3mNj5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Resources from church letter 1st May 2020
 
