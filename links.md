@@ -10,6 +10,12 @@ longname: Handy links for things to read, watch, and listen to.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PUtll3mNj5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+* We are the light of the world: Christ Church Sunday Service
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sjdvnoW67z8?start=4283" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Resources from church letter 1st May 2020
 
 * Jesus spending time alone with the father: ["How to be alone"- Bridgetown Church Podcast](https://castbox.fm/vb/245432066)
