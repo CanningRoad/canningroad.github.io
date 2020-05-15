@@ -4,7 +4,7 @@ about: Invest in your relationship
 when: Tuesdays at 7:30pm
 live: true
 permalink: /marriage/
-cover: /photo/_42a3267-tomgphoto.jpg
+cover: /photo/img_0725.jpg
 ---
 ![The Marriage Course logo](/photo/tmc-logo-2019.png)
 
