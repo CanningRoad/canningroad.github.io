@@ -2,7 +2,7 @@
 title: Alpha
 about: Explore life, faith, and meaning
 when: Mondays 7pm
-live: true
+live: false
 permalink: /alpha/
 cover: /photo/alpha-cloud.jpg
 ---
