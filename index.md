@@ -55,6 +55,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 ## Other events
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
+	{% assign live_activities = site.activities | where: "live" %}
 	{% for act in site.activities %}
 		{% 	include activity-button.html
 			activity=act
