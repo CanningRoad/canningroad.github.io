@@ -2,7 +2,7 @@
 title: The Marriage Course Online
 date: 2020-05-14T13:10:14.274Z
 photo: /photo/tmc-logo-2019.png
-cover: /photo/_42a3267-tomgphoto.jpg
+cover: /photo/img_0725.jpg
 ---
 ![](/photo/tmc-logo-2019.png)
 
