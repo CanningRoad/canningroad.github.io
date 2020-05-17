@@ -19,14 +19,13 @@ longname: Handy links for things to read, watch, and listen to.
 * For helpful perspective on following Jesus in our current time we recommend the Bridgetown Audio Podcast.
 
 
+https://castbox.fm/channel/Bridgetown-Audio-Podcast-id1333403?country=gb
 
-<iframe src="https://castbox.fm/app/castbox/player/id1333403?v=8.22.7&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
 
 * For anyone wanting to spend some time really nerding out on the Bible we love the Bible Project Podcast. 
 
 
-
-<iframe src="https://castbox.fm/app/castbox/player/id2142576?v=8.22.7&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
+https://castbox.fm/channel/BibleProject-id2142576?country=gb
 
 
 ## Resources from church letter 1st May 2020
