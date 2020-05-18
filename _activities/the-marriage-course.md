@@ -8,8 +8,6 @@ cover: /photo/img_0725.jpg
 ---
 ![The Marriage Course logo](/photo/tmc-logo-2019.png)
 
-![](/photo/tmc-logo-2019.png)
-
 We're really excited to announce that Ste and Helen will be running the Marriage Course online!
 
 Starting 26th May at 7.30pm
