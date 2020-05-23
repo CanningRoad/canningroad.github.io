@@ -7,8 +7,9 @@ permalink: /coronavirus/
 
 Please check our [latest news posts][news] for activities taking place online, including the [Marriage Course][marriage] and [Sundays Online][so]!
 
+[news]: /news/
 [marriage]: /marriage/
-[so]: /online/
+[so]: /services/online/
 
 ## Original Message - 21st March
 

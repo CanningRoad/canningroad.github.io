@@ -4,7 +4,7 @@ date: 2020-05-14T13:10:14.274Z
 photo: /photo/tmc-logo-2019.png
 cover: /photo/img_0725.jpg
 ---
-![](/photo/tmc-logo-2019.png)
+![Marriage Course Logo](/photo/tmc-logo-2019.png)
 
 We're really excited to announce that Ste and Helen will be running the Marriage Course online!
 
