@@ -1,5 +1,5 @@
 ---
-title: Watch: Sunday Online 23rd May 2020
+title: Watch Sunday Online 23rd May 2020
 date: 2020-05-22T20:00:00Z
 photo: /photo/sundays-online.png
 cover: /photo/sunday-at-six-cover.jpg
