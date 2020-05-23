@@ -6,25 +6,9 @@ intro: >
 ## Latest News
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
-	<div class="pa0 pl3
-	ma2 cf
-	ba bw1 b--mid-gray
-	">
-		<div class="w-100 fl-ns w-60-ns pa0 pr4">
-			<a class="no-underline near-black" href="{{ site.posts.first.url }}">
-				<h3>
-					{{ site.posts.first.title }}
-				</h3>
-				<p>{{site.posts.first.content | strip_html | truncatewords: 50}}</p>
-				<p class="tr w-100"><a href="{{ site.posts.first.url }}">Read more...</a></p>
-			</a>
-		</div>
-		{% if site.posts.first.photo %}
-			<div class="dn db-ns fr-ns w-40-ns h5 bg-center cover"
-				style="background-image:url({{site.posts.first.photo}})">
-			</div>
-		{% endif %}
-	</div>
+	{% 	include post-view.html
+		post=site.posts.first
+	%}
 </div>
 
 ## Our regular meetings
