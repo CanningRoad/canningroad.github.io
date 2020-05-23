@@ -32,7 +32,8 @@ We have a regular Sunday morning service as well as other events throughout the 
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
 
-	{% for service in site.services %}
+	{% assign live_services = site.services | where: "live", true %}
+	{% for service in live_services %}
 		<a class="no-underline" href="{{service.url}}">
 			<div class="w5 h4 pa3
 				ma2 mr4-l

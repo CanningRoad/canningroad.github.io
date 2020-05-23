@@ -3,6 +3,15 @@ title: Response to COVID-19 (Coronavirus)
 permalink: /coronavirus/
 ---
 
+## Update - 23rd May
+
+Please check our [latest news posts][news] for activities taking place online, including the [Marriage Course][marriage] and [Sundays Online][so]!
+
+[marriage]: /marriage/
+[so]: /online/
+
+## Original Message - 21st March
+
 What interesting times we live in!
 
 The ongoing coronavirus crisis means that the government has advice for churches like us, intended to keep us healthy and safe. At the same time, the heart of our church is to do what Jesus would do in our shoes, showing grace, kindness, and generosity of spirit, especially to those in need in this hard time. 
