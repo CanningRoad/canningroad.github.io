@@ -5,11 +5,9 @@ photo: /photo/sundays-online.png
 cover: /photo/sunday-at-six-cover.jpg
 ---
 
-![Sundays Online Logo](/photo/sundays-online.png)
+Tonights video will start at 6pm. You can watch it beneath, or by going directly to YouTube: <https://youtu.be/NEn3y9NivXc>
 
-This is the space where we'll show the Sunday service for 24th May!
-
-Check back later if it's not here yet.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NEn3y9NivXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can also take a look at the [Canning Road YouTube Channel](
 https://www.youtube.com/channel/UCLlyMMvV26OndAy_ep7gv4A)
