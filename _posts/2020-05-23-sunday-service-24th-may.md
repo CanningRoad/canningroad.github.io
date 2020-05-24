@@ -11,7 +11,7 @@ You can watch it beneath, or by going directly to YouTube: <https://youtu.be/NEn
 
 Press Play, then click the full-screen button to make it bigger:
 
-![Full screen button](/photo/full-screen-video.png)
+<img class="fn cb ma0" alt="Full screen button" src="/photo/full-screen-video.png">
 
 ## Video
 
