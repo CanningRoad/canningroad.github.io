@@ -8,7 +8,7 @@ live: true
 
 ![Sundays Online Logo](/photo/sundays-online.png)
 
-Starting 23rd May 2020, we are broadcasting service content online, from our homes to yours 😊
+Starting 24th May 2020, we are broadcasting service content online, from our homes to yours 😊
 
 Please check our [latest news posts][news] and our [YouTube channel][yt] to watch the latest.
 
