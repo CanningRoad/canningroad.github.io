@@ -1,6 +1,6 @@
 ---
 title: Watch Sunday Online 21st June 2020
-date: 2020-06-21T16:00:00Z
+date: 2020-06-21T14:00:00Z
 photo: /photo/sundays-online.png
 cover: /photo/sunday-at-six-cover.jpg
 ---
