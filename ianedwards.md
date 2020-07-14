@@ -9,4 +9,9 @@ Please bookmark this page for future reference.
 
 God bless x
 
-![The stream will begin on 20th July](/photo/stream-20th-july.png)
+<div class="center" style="width:400px; max-width:100%">
+	<img
+		class="fn w-100 pa0"
+		src="/photo/stream-20th-july.png"
+		alt="The stream will begin on 20th July" />
+</div>
