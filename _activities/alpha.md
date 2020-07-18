@@ -13,8 +13,9 @@ cover: /photo/alpha-cloud.jpg
 
 Alpha is an opportunity to explore life and the Christian faith in a friendly, open and informal environment.
 
-Each session includes food, a short talk and a discussion where you can share your thoughts. There's no pressure, no follow up and no charge.
+During social distancing, we can do Alpha online from the comfort of our own homes. There's a short video and a discussion where you can share your thoughts. There's no pressure, no follow up and no charge!
 
+<iframe class="db center" width="560" height="315" src="https://www.youtube.com/embed/fViYK_Xb3Wg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Who's it for? ##
 
@@ -23,8 +24,7 @@ Any over 18s seeking answers and purpose in life! Sorry, but the kids will need 
 
 ## When and where? ##
 
-We are starting on **Monday 29th April** at **7pm**, and it will run every Monday night at the same time for 12 weeks.
+We are looking to start an online Alpha sometime soon based on demand.
 
-We'll be using the Newton-street side of the building so you'll come in that way.
+If you're interested, please let us know through our ["explore" form](/explore/) by ticking the 'Alpha' box! Thanks!
 
-<iframe class="db center" width="560" height="315" src="https://www.youtube.com/embed/fViYK_Xb3Wg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

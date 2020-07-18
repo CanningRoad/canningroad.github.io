@@ -14,14 +14,14 @@ You can watch a [trailer for Alpha here](/alpha/).
 	  <p>
 		<label class="db fw4 lh-copy f6" for="name">Your Name:</label>
 		<input
-			class="pa2 input-reset ba bg-transparent w-100 measure"
+			class="pa2 input-reset ba bg-white w-100 measure"
 			type="text"
 			name="name" />   
 	  </p>
 	  <p>
 		<label class="db fw4 lh-copy f6" for="email">Your Email:</label>
 		<input
-			class="pa2 input-reset ba bg-transparent w-100 measure"
+			class="pa2 input-reset ba bg-white w-100 measure"
 			type="email"
 			name="email" />
 	  </p>
@@ -40,10 +40,10 @@ You can watch a [trailer for Alpha here](/alpha/).
 	  <p>
 		<label for="message">Add an extra message for us if you want to:</label>
 	  </p>
-	  <textarea name="message"></textarea>
+	  <textarea class="pa2 input-reset ba bg-white w-100 measure" name="message"></textarea>
 	  <p>
 		<button
-			class="b ph3 pv2 input-reset ba b--black bg-transparent pointer f6"
+			class="b ph3 pv2 input-reset ba b--black bg-white grow pointer f6"
 			type="submit">Send!</button>
 	  </p>
 	</form>
