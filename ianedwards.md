@@ -3,7 +3,11 @@ title: Ian Edwards
 longname: Funeral service of Ian Edwards
 ---
 
-From 10:30am on Monday the 20th July, this page will host the broadcast of the funeral service of Ian Edwards. The livestream will be recorded and will be available to watch here afterwards.
+**From Monday 20th July** 
+
+Thank you for joining us online to pay your respects to Ian.
+
+You can find the recorded stream below. The procession enters the church at 15 minutes into the viedo.
 
 Watch on YouTube: <https://youtu.be/wg0TVoLa4gg>
 
