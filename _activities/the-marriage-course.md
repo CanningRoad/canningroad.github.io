@@ -1,7 +1,7 @@
 ---
 title: The Marriage Course
 about: Invest in your relationship
-when: Upcoming
+when: (Coming soon)
 live: true
 permalink: /marriage/
 cover: /photo/img_0725.jpg

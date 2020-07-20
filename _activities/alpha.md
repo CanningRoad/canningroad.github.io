@@ -1,7 +1,7 @@
 ---
 title: Alpha
 about: Explore life, faith, and meaning
-when: Upcoming
+when: (Coming soon)
 live: true
 permalink: /alpha/
 cover: /photo/alpha-cloud.jpg

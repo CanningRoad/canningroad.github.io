@@ -7,7 +7,7 @@ longname: Funeral service of Ian Edwards
 
 Thank you for joining us online to pay your respects to Ian.
 
-You can find the recorded stream below. The procession enters the church at 15 minutes into the viedo.
+You can find the recorded stream below. The procession enters the church at 15 minutes into the video.
 
 Watch on YouTube: <https://youtu.be/wg0TVoLa4gg>
 
