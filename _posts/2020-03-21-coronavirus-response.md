@@ -3,6 +3,12 @@ title: Response to COVID-19 (Coronavirus)
 permalink: /coronavirus/
 ---
 
+## Update - 23rd July
+
+We will be reopening for services every two weeks, starting on the 9th of August.
+
+Click the following link to download and read our [COVID-19 Risk Assessment](/assets/COVID-19-Risk-Assessment-Canning-Road.pdf).
+
 ## Update - 23rd May
 
 Please check our [latest news posts][news] for activities taking place online, including the [Marriage Course][marriage] and [Sundays Online][so]!
