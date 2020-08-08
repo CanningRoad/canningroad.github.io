@@ -1,7 +1,7 @@
 ---
 title: Back to the building, and online! 9th August
 date: 2020-08-08T12:00:00Z
-photo: /photo/sundays-hybrid.png
+photo: /photo/sundays-hybrid.jpg
 cover: /photo/sunday-at-six-cover.jpg
 ---
 
