@@ -1,0 +1,7 @@
+
+<div class="center" style="width:400px; max-width:100%">
+	<img
+		class="fn w-100 pa0"
+		src="/photo/stream-later.png"
+		alt="The stream will begin later" />
+</div>

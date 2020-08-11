@@ -23,18 +23,14 @@ Later in this post we'll list the entire set of guidance to follow, but in short
  + Keep your kids close with you
  + Chat outside, after the service, and keep 2m when you do!
 
+
 ## Sunday Online
 
 We will be filming the talk and the prayers from the service, cutting it together with the same worship videos shown on Sunday morning, and broadcasting this for you on the same day that the church meets in the morning.
 
-**We'll premiere the video at 6pm as usual** and it will appear here when ready!
+August 9th Video: <https://www.youtube.com/watch?v=1gufuBqL2aY>
 
-<div class="center" style="width:400px; max-width:100%">
-	<img
-		class="fn w-100 pa0"
-		src="/photo/stream-later.png"
-		alt="The stream will begin later" />
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1gufuBqL2aY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can also take a look at the [Canning Road YouTube Channel](
 https://www.youtube.com/channel/UCLlyMMvV26OndAy_ep7gv4A)
@@ -43,6 +39,7 @@ https://www.youtube.com/channel/UCLlyMMvV26OndAy_ep7gv4A)
 ## All the guidance
 
 ### Before the service
+
  + No-one who is displaying symptoms of COVID-19 (temperature, coughing etc.) should attend
  + Those who are over-70 should consider their own health before planning to attend.
  + Those who are shielding should not attend.
@@ -51,6 +48,7 @@ https://www.youtube.com/channel/UCLlyMMvV26OndAy_ep7gv4A)
  + Anyone who is ill afterwards should inform church so that other attendees can be traced.
 
 ### Entering the building
+
  + Please do not arrive at the church building before 10.20am. We would like to limit the time people spend within the building as much as possible to reduce the risk of possible transmission.
  + At all times keep a safe distance from anyone who is not part of your household. We recommend 2m whenever possible.
  + Do not shake hands, hug or kiss others outside your household.
@@ -65,6 +63,7 @@ https://www.youtube.com/channel/UCLlyMMvV26OndAy_ep7gv4A)
  + Some pews will be roped off to keep 2m social distancing measures.
 
 ### During the service
+
  + There will be no singing or loud responses.
  + There will be no children’s activities or toys provided, sorry.
  + Children must remain with their parents and be supervised at all times.
@@ -74,11 +73,13 @@ https://www.youtube.com/channel/UCLlyMMvV26OndAy_ep7gv4A)
  + All doors will be propped open for the duration of the service to keep sufficient airflow through the building and to reduce the chance of transmission through the touching of door handles. Be aware it could be chilly.
 
 ### During the Breaking of Bread
+
  + The bread will be cut and the grape juice will be decanted into individual disposable cups before the service in the kitchen.
  + The steward will wear gloves and a mask while serving the bread and wine
  + Attendees will place the used disposable cups on the pew rack in front of them or take them away from the church.
 
 ### Exiting the building
+
  + Once the service has ended please do not linger in the building.
  + Leave the worship area in row order from the back row.
  + Exit the building through the right-hand glass narthex door following the arrows.
