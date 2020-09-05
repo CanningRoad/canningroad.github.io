@@ -3,7 +3,7 @@ title: Welcome
 intro: >
   <b>Church is a family, not a building!</b> We're a welcoming Christian church based on the corner of Canning Road and Newton Street. We believe Jesus is the hope for the world and we want to share that real and lasting joy with you.
 ---
-## Latest News
+## [Latest News](/news/)
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
 	{% 	include post-view.html
@@ -11,7 +11,8 @@ intro: >
 	%}
 </div>
 
-## Our regular meetings
+## Regular Meetings
+
 We have a regular Sunday morning service as well as other events throughout the week. Click on one of our services for more information.
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
@@ -48,25 +49,21 @@ We have a regular Sunday morning service as well as other events throughout the 
 	{% endfor %}
 </div>	
 
+## What's the Christian faith about?
+
+Christians talk about the "good news", but what's so good about it? What even makes a person a "Christian"? We wanted to answer these questions in a down-to-earth way that won't make you cringe. So we made this video; we hope you enjoy it.
+
+<iframe class="fr-ns" width="560" height="315" src="https://www.youtube.com/embed/CHhz87QbVLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Recent Posts
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
-
-	{% for post in site.posts %}
-		<a class="no-underline near-black" href="{{post.url}}">
-			<div class="pv1 ph3
-				ma2 mr4-l
-				ba bw1
-				b--mid-gray grow ">
-				
-				<p>
-					<strong>{{post.title}}</strong>
-					<small>{{post.date | date_to_string}}</small>
-				</p>
-				<p>{{post.content | strip_html | truncatewords: 25}}</p>
-				
-			</div>
+	{% for this_post in site.posts %}
+		<a class="no-underline near-black" href="{{this_post.url}}">
+			{% 	include post-view.html
+				post=this_post
+			%}
 		</a>
 	{% endfor %}
-
 </div>	

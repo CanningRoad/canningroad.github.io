@@ -8,7 +8,8 @@ Have a look and see if any of these things might be for you:
 
 <div class="w-100 pv2 w-50-l fl-l">
 	<h2>Services</h2>	
-	{% for service in site.services %}
+	{% assign live_services = site.services | where: "live", true %}
+	{% for service in live_services %}
 		<a class="no-underline near-black" href="{{service.url}}">
 			<div class="pv1 ph3
 				ma2 mr4-l
@@ -31,8 +32,9 @@ Have a look and see if any of these things might be for you:
 </div>
 
 <div class="w-100 pv2 w-50-l fl-l">
-	<h2>Events</h2>	
-	{% for activity in site.activities %}
+	<h2>Activities</h2>	
+	{% assign live_activities = site.activities | where: "live", true %}
+	{% for act in live_activities %}
 		<a class="no-underline near-black" href="{{activity.url}}">
 			<div class="pv1 ph3
 				ma2 mr4-l

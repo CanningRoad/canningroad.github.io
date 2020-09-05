@@ -5,8 +5,6 @@ photo: /photo/sundays-online.png
 cover: /photo/sunday-at-six-cover.jpg
 ---
 
-**The video will start at 6pm.**
-
 Watch on YouTube: <https://youtu.be/CHhz87QbVLg>
 
 Use the full-screen button to make the video bigger:
