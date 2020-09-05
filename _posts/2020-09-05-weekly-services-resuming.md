@@ -1,6 +1,6 @@
 ---
 title: Resuming weekly services from 6th September
-date: 2020-08-08T12:00:00Z
+date: 2020-09-05T12:00:00Z
 photo: /photo/sundays-hybrid.jpg
 cover: /photo/sunday-at-six-cover.jpg
 ---
