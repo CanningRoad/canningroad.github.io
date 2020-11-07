@@ -3,6 +3,12 @@ title: Response to COVID-19 (Coronavirus)
 permalink: /coronavirus/
 ---
 
+## Update - 6th November
+
+There [won't be any services in the church building in November][nov], but we will be broadcasting Sunday content on YouTube again. Thanks for your patience! Please see the link above for details and YouTube links.
+
+[nov]: /news/no-services-november
+
 ## Update - 23rd July
 
 We will be reopening for services every two weeks, starting on the 9th of August.
