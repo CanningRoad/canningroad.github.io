@@ -7,7 +7,7 @@ permalink: /coronavirus/
 
 There [won't be any services in the church building in November][nov], but we will be broadcasting Sunday content on YouTube again. Thanks for your patience! Please see the link above for details and YouTube links.
 
-[nov]: /news/no-services-november
+[nov]: /post/no-services-november
 
 ## Update - 23rd July
 
