@@ -3,6 +3,7 @@ title: Watch Canning Road Online 5th July 2020
 date: 2020-07-04T20:00:00Z
 photo: /photo/sundays-online.png
 cover: /photo/sunday-at-six-cover.jpg
+category: SundaysOnline
 ---
 
 **The video will start at 6pm.**

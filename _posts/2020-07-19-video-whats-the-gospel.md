@@ -3,6 +3,7 @@ title: Sunday video - What's the gospel?
 date: 2020-07-19T10:00:00Z
 photo: /photo/sundays-online.png
 cover: /photo/sunday-at-six-cover.jpg
+category: SundaysOnline
 ---
 
 Watch on YouTube: <https://youtu.be/CHhz87QbVLg>

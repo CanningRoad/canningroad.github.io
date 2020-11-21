@@ -3,6 +3,7 @@ title: Watch Sunday Online 24th May 2020
 date: 2020-05-23T20:00:00Z
 photo: /photo/sundays-online.png
 cover: /photo/sunday-at-six-cover.jpg
+category: SundaysOnline
 ---
 
 **Tonights video will start at 6pm.**
