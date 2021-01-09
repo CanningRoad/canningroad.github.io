@@ -3,6 +3,12 @@ title: Response to COVID-19 (Coronavirus)
 permalink: /coronavirus/
 ---
 
+## Update - 9th January 2021
+
+We are [pausing services for two weeks][jan] in light of the seriousness of the current national lockdown. Please check out our news post for some suggestions!
+
+[jan]: /post/closed-two-weeks
+
 ## Update - 6th November
 
 There [won't be any services in the church building in November][nov], but we will be broadcasting Sunday content on YouTube again. Thanks for your patience! Please see the link above for details and YouTube links.
