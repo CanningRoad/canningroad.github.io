@@ -1,7 +1,7 @@
 ---
 title: Sundays Online
 audience: Broadcast on YouTube
-when: Every week
+when: Regularly
 cover: /photo/sunday-at-six-cover.jpg
 live: true
 ---

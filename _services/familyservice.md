@@ -3,12 +3,10 @@ title: Family Service
 longname: Family Service and breaking of bread
 audience: All welcome
 when: Sunday mornings at 10:30am
-live: true
+live: false
 ---
 
 Our family service is where we meet together to praise God, learn more about him, and support each other in life. 
-
-**Weekly services are back**, check out this [news post for more info](/post/weekly-services-resuming/)
 
 ## What's it like?
 
