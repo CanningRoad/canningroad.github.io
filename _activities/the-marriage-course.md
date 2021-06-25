@@ -1,14 +1,14 @@
 ---
 title: The Marriage Course
 about: Invest in your relationship
-when: (Coming soon)
+when: Get in touch
 live: true
 permalink: /marriage/
 cover: /photo/img_0725.jpg
 ---
 ![The Marriage Course logo](/photo/tmc-logo-2019.png)
 
-We ran the Marriage Course online in May 2020, and are aiming to do it again in **September 2020**.
+We ran the Marriage Course online in May 2020, and are aiming to do it again based on demand - see below!
 
 ## What is it?
 
