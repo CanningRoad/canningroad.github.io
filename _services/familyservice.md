@@ -3,7 +3,7 @@ title: Family Service
 longname: Family Service and breaking of bread
 audience: All welcome
 when: Sunday mornings at 10:30am
-live: false
+live: true
 ---
 
 Our family service is where we meet together to praise God, learn more about him, and support each other in life. 
@@ -16,7 +16,7 @@ It goes like this:
  * Singing a few songs and hymns
  * Listening to a sermon from the Bible
  * Breaking bread together (like Jesus did in the last supper - see below)
- * Finish with another song and a prayer to God
+ * Finish with another song and a prayer
  
 ## When can I come?
 
@@ -29,9 +29,9 @@ In the Bible, on the night he died, Jesus had a last supper with his friends. Je
 So before he went to the cross, he taught his followers (who were his friends) a good way to remember him:
 
  * Eating bread to remember that Jesus' body was broken for us so that we can be healed
- * Drinking wine (or grape juice) to remember that Jesus' blood pays for our sins, making them nothing, and giving us access to God in heaven
+ * Drinking wine (grape juice) to remember that Jesus' blood pays for our sins, making them nothing, and giving us access to God in heaven
  
-And we remember this by having bread and wine in a happy, orderly way. **If you believe that Jesus is God, and that he died for you, you can  join in with us when we do this on a Sunday:**
+And we remember this by having bread and wine in a happy, orderly way. **If you believe that Jesus is God, and that he died for you, you can join in with us when we do this on a Sunday:**
 
  * The person at the front gives us a minute to think about Jesus and what he has done to save us. It's a good time to think privately about what things we need to change in our lives.
  * The person at the front thanks God for the bread, breaks it up, and then it's taken around on plates
