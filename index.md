@@ -53,11 +53,15 @@ We have a regular Sunday morning service as well as other events throughout the 
 
 <iframe class="fr-ns ml2-ns" width="416" height="234" src="https://www.youtube.com/embed/CHhz87QbVLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Christians talk about the "good news", but what's so good about it?
+Christians talk about the "good news"
+
+...but what's so good about it?
 
 What even makes a person a "Christian"?
 
-We wanted to answer these questions in a down-to-earth way that won't make you cringe. So we made this video; we hope you enjoy it.
+We wanted to answer these questions in a down-to-earth way that won't make you cringe. 
+
+So we made this video; we hope you enjoy it.
 
 
 <h2 class="cb pt2">Recent Posts</h2>
