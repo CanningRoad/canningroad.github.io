@@ -2,6 +2,7 @@
 title: Hero Academy (Kids Club)
 about: An after-school club for 5-11s
 when: Thursdays at 5pm
+live: true
 ---
 
 Hero Academy features a mix of games and fun activities. The kids learn about our superhero, Jesus, and we can learn to be more like him!
@@ -30,9 +31,9 @@ Hero Academy is good way to get a little break from childcare one evening a week
 
 ## When is it?
 
-It runs during term-time with breaks for the three major holidays as well as half terms.
+Hero Academy runs during term-time with breaks for the three major holidays as well as half terms.
 
 {% if page.when %}
-It is on {{ page.when }}.
+It's on {{ page.when }}.
 {% endif %}
  
