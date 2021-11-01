@@ -2,6 +2,7 @@
 title: The Neighbourhood Coffee Morning
 about: A place to relax and spend time with friends
 when: Every monday 10am - 12pm
+live: false
 ---
 
 ![Liliana and Linda](/photo/coffee-ladies.jpg)

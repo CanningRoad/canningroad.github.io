@@ -2,6 +2,7 @@
 title: Picnic Lunch
 about: Eating and chatting together
 when: Every 1st Sunday at 12:00
+cover: /photo/lunch-2021.jpg
 live: true
 ---
 

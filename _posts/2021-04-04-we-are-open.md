@@ -1,6 +1,7 @@
 ---
 title: We are open for Sunday morning worship
 permalink: /coronavirus/
+photo: /photo/church-open-2021.jpg
 ---
 
 ## COVID Update - 4th April 2021
