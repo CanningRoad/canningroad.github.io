@@ -7,7 +7,9 @@ live: true
 
 ![Liliana and Linda](/photo/coffee-ladies.jpg)
 
-Do you struggle to get a quiet moment of peace? Come and join us on a Tuesday for a drink and some calm time.
+Do you struggle to get a quiet moment of peace? Come and join us on a Tuesday for a drink and some calm time. 
+
+**{{page.when}}**
 
 ## What's it like? ##
 
