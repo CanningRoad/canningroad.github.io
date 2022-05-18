@@ -22,6 +22,8 @@ We'll have plenty of cold drinks, as well as traditional summer games to play li
  
 It's a casual event, and you can come and go anytime. Under 16s need to be accompanied by an adult.
 
+![Platinum Jubilee Logo](/photo/jubilee-purple.png)
+
 ## How to Help
 
 We would love helpers that can:
@@ -32,5 +34,3 @@ We would love helpers that can:
  + Deliver flyers
  
 To offer help with any of these things, contact Ste at this email address: jubilee(at)canningroad.co.uk
-
-![Platinum Jubilee Logo](/photo/jubilee-purple.png)
