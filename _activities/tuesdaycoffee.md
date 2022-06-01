@@ -2,7 +2,7 @@
 title: Tuesday Coffee
 about: Tea, Coffee, Chat, Rest
 when: Every Tuesday 1 - 3pm
-live: true
+live: false
 ---
 
 ![Liliana and Linda](/photo/coffee-ladies.jpg)
