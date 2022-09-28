@@ -1,6 +1,6 @@
 ---
 title: Messy Church - October 2022
-date: 2022-09-28T19:00Z
+date: 2022-09-28T18:00Z
 photo: /photo/messy-church-flyer-crop.png
 cover: /photo/clouds1.jpg
 ---
