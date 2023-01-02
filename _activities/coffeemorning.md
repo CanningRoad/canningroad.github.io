@@ -2,8 +2,9 @@
 title: Coffee Time
 about: Tea, Coffee, Chat, Rest
 when: Every Monday 10am - 12pm
+live: false
+permalink: /coffee/
 cover: /photo/coffee-ladies.jpg
-live: true
 ---
 
 ![Liliana and Linda](/photo/coffee-ladies.jpg)
