@@ -1,43 +1,41 @@
 ---
 title: Food Bank
-about: Supplying food for those on benefits and in need
-when: Fridays at 5pm
+about: Helping local people in crisis
+when: Mondays at 1pm
+permalink: /foodbank/
+live: true
 ---
 
-It's hard to get by on a low-paying job or benefits. The food bank is here to help out by providing free food which you can take away, which has been provided by local businesses and charitable givers. The foodbank is held in our schoolroom (the big green building), and all of us are volunteers who give up our time to help the neighbourhood.
+We partner with [Compassion Acts][ca], part of the national Trussell Trust network of foodbanks.
 
-## What's it like?
+We want to help local people in crisis by providing three days basic food supplies. We offer this in a friendly, non-judgemental environment.
 
-You can come to the foodbank and stay for a cup of tea or coffee, or just pick up your bags of food:
+You can also get advice and support about debt and benefits, from our trained advisor.
 
-### If you have time for a cuppa:
+[ca]: https://compassionacts.uk/foodbank/
 
- * Come inside through our door on the Canning Road side of the schoolroom
- * Inside there are tables to sit and chat
- * We have tea and biscuits to enjoy
- * We would love to talk to you about anything and everything
- * You can get your food from the service table anytime (please be ready to show a proof of benefits when you first sign up)
+## Who is it for?
 
-### If you just want to pick up the food:
+Foodbank is for anyone who is in financial crisis and not able to afford food, regardless of their circumstances. It doesn’t matter if you work full time, part time, claim benefits or none of these things. We help people from all different walks of life and for all different reasons. 
 
- * Come inside through our door on the Canning Road side of the schoolroom
- * Come to the service tables at the end of the room
- * You will need to show proof of benefits when you first sign up
- * Our volunteers would love to give you your food
+## Do I need a referral or voucher?
 
+We recommend that you come with a referral from an agency like social services, doctors, the local school, or similar.
 
-## The food
+If you’ve tried to get a referral and not been able to – if they're shut or not answering calls – you can self-refer and we’ll issue you a voucher directly. 
 
-The food which we give includes baked goods from a local bakery (including pies, breads, and sweet pastries), and any tins or other essentials which have been donated to us.
+Please try to contact us\* before turning up at a session so we can make sure we can help you before you make the journey.
 
+Although there is usually a limit to how many parcels we can give a person in a certain time, we will never refuse to help anyone who is in need. If you are struggling, speak to whoever usually refers you, or contact us\*.
 
-## Why can't you deliver?
+## What else?
 
-Unfortunately, we can't deliver to everybody. And if we can't deliver to everybody, that means we can't deliver to anybody, out of fairness. If you qualify for food parcels, all you have to do is come to the church to collect your package - it is completely free. But if we start delivering to some people, then others will expect the same treatment and will no longer come to the foodbank. Besides, isn't it better to get together and have a natter? :)
+While at the food bank, you can stop for a chat, tea or coffee, or prayer with one of the Canning Road team.
 
+As well as food, we also dispense toiletries, and stuff for staying warm and safe at home, like hot water bottles and energy saving measures.
 
-## Can I help?
+## \*Contact Compassion Acts
 
-Members of the church can volunteer to help with the food bank. If you're a believing Christian, and you want to take part, please come and talk to us about it on a Friday or a Sunday morning.
+Call 01704 264505
 
-If you want to help supply the foodbank, please talk to us. Some key volunteers are: Gabriel, Liliana, and Lionel.
+Email `hello@compassionacts.uk`

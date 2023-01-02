@@ -16,7 +16,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Audience', name: 'audience', widget: 'string', hint: 'Short description for the blue box on the front page' }
       - { label: 'When', name: 'when', widget: 'string', hint: 'Short day/time clue for the blue box on the front page' }
-      - { label: 'Next Event', name: 'nextevent', widget: 'string', required:false, hint: 'Optional. For complex scheduling like Messy Church, enter the date of the next one' }
+      - { label: 'Next Event', name: 'nextevent', widget: 'string', required: false, hint: 'Optional. For complex scheduling like Messy Church, enter the date of the next one' }
       - { label: 'Live', name: 'live', widget: 'boolean', default: true, hint: 'Show the tile for this service?' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'activities'
@@ -31,7 +31,7 @@ collections:
       - { label: 'About', name: 'about', widget: 'string', hint: 'Short description for the purple box on the front page' }
       - { label: 'When', name: 'when', widget: 'string', hint: 'Short day/time clue for the purple box on the front page' }
       - { label: 'Live', name: 'live', widget: 'boolean', default: true, hint: 'Show the tile for this activity?' }
-      - { label: 'Permalink', name: 'permalink', widget: 'string', required:false, hint: 'Optional short link to give a post a nicer url. Example /alpha/' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string', required: false, hint: 'Optional short link to give a post a nicer url. Example /alpha/' }
       - { label: 'Cover', name: 'cover', widget: 'image', allow_multiple: false, hint: 'Cover photo to go at the top of the activity page' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
