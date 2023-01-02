@@ -2,7 +2,7 @@
 title: Messy Church
 audience: For families
 when: Saturdays, every few months
-nextevent: 1st October 2022
+nextevent: 4th Feb 2023
 live: true
 cover: /photo/clouds1.jpg
 ---
