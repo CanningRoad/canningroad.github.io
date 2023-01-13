@@ -1,7 +1,7 @@
 ---
 title: Messy Church - February 2023
 date: 2023-01-13T18:00Z
-photo: /photo/messy-church-evergreen.png
+photo: /photo/messy-church-evergreen.jpg
 cover: /photo/clouds1.jpg
 ---
 
