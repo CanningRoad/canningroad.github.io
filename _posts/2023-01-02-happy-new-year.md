@@ -1,6 +1,7 @@
 ---
 title: Happy New Year!
 date: 2023-01-02T18:00Z
+photo: /photo/generic.jpg
 cover: /photo/clouds1.jpg
 ---
 

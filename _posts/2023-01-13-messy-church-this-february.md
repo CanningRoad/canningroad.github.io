@@ -7,7 +7,7 @@ cover: /photo/clouds1.jpg
 
 On Saturday, **4th of February** we are having Messy Church with the theme "Jesus' love" from 2pm til 4pm.
 
-Our time together includes a snack for everyone (grown ups and kids) but no sit down meal.
+Our time together includes a snack for everyone (grown-ups and kids), but no sit down meal.
 
 ![Messy Church Flyer 4th February 2023](/photo/messy-church-feb-2023.png)
 

@@ -2,20 +2,20 @@
 title: Messy Church
 audience: For families
 when: Saturdays, every few months
-nextevent: 4th Feb 2023
+nextevent: 17th June 2023
 live: true
-cover: /photo/clouds1.jpg
+cover: /photo/messy-church-photo-2023-1.jpg
 ---
 
 Messy Church is a fun way for families with younger kids to get into God's house and have a great time. We have a different theme each time that teaches us something about God and Jesus.
 
 ## What's it like?
 
- * Time for crafts and activities
- * A short bible message specially for the kids
- * A couple of songs
- * Eat a snack together (at no cost)
- 
+- Time for crafts and activities
+- A short bible message specially for the kids
+- A couple of songs
+- Eat a snack together (at no cost)
+
 We start in the hall with some supervised crafts, and the kids can try as many or as few as they want to. There is also an area with soft toys for the very little ones.
 
 After a while we go into the main church to listen to a short talk with lots of interactive bits, and we all sing some fun Jesus songs.
