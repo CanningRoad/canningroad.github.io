@@ -1,12 +1,13 @@
 ---
-title: Messy Church - June 2023
-date: 2023-03-21T18:00Z
+title: Messy Church - July 2023
+date: 2023-06-12T17:00:00.000Z
 photo: /photo/messy-church-photo-2023-1.jpg
 cover: /photo/messy-church-photo-2023-1.jpg
 ---
+Advance notice! On Saturday, **15th of July** we are having Messy Church from 2pm til 4pm.
 
-Advance notice! On Saturday, **17th of June** we are having Messy Church from 2pm til 4pm.
+The theme is Jesus saying “I will never leave you or forsake you”. 
 
 Our time together includes a snack for everyone (grown-ups and kids), but no sit down meal.
 
-More info on our [Messy Church Page](/services/messychurch/)
+Find more info on our [Messy Church Page](/services/messychurch/)
