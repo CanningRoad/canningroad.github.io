@@ -1,6 +1,6 @@
 ---
 title: Messy Church - July 2023
-date: 2023-06-12T17:00:00.000Z
+date: 2023-06-12T16:00:00.000Z
 photo: /photo/messy-church-photo-2023-1.jpg
 cover: /photo/messy-church-photo-2023-1.jpg
 ---
