@@ -2,7 +2,6 @@
 title: Messy Church
 audience: For families
 when: Saturdays, every few months
-nextevent: 22nd July 2023
 live: true
 cover: /photo/messy-church-photo-2023-1.jpg
 ---

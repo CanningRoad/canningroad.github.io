@@ -1,5 +1,5 @@
 ---
-title: Youth
+title: Renew Youth
 about: After-school club for 11-16s
 when: Thursdays at 6:30pm
 live: true
@@ -16,7 +16,7 @@ Youth is where we dig deeper into big questions like "Who am I?", and "How can I
 
 ## What do parents need to know?
 
- * Youth is for **11-16s** (High school age).
+ * Renew Youth is for **11-16s** (High school age).
  * There is no cost
  * Start time is at **6:30pm**
  * Pick-up time is at **8pm**
