@@ -32,7 +32,7 @@ collections:
       - { label: 'When', name: 'when', widget: 'string', hint: 'Short day/time clue for the purple box on the front page' }
       - { label: 'Live', name: 'live', widget: 'boolean', default: true, hint: 'Show the tile for this activity?' }
       - { label: 'Permalink', name: 'permalink', widget: 'string', required: false, hint: 'Optional short link to give a post a nicer url. Example /alpha/' }
-      - { label: 'Cover', name: 'cover', widget: 'image', allow_multiple: false, hint: 'Cover photo to go at the top of the activity page' }
+      - { label: 'Cover', name: 'cover', widget: 'image', required: false, allow_multiple: false, hint: 'Cover photo to go at the top of the activity page' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
