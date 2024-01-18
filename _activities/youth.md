@@ -6,7 +6,7 @@ live: true
 ---
 Youth is where we dig deeper into big questions like "Who am I?", and "How can I live a good life?" by exploring the ancient way of Jesus.
 
-![](/photo/_42a3267-tomgphoto.jpg)
+![](/photo/renew-invite-cards.png)
 
 ## What's it like?
 
