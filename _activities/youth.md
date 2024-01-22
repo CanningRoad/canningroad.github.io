@@ -3,6 +3,7 @@ title: Renew Youth
 about: After-school club for 11-16s
 when: Thursdays at 6:30pm
 live: true
+permalink: /youth
 ---
 Youth is where we dig deeper into big questions like "Who am I?", and "How can I live a good life?" by exploring the ancient way of Jesus.
 
