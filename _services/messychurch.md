@@ -3,6 +3,7 @@ title: Messy Church
 audience: For families
 when: Saturdays, every few months
 live: true
+nextevent: Saturday 5th October, 2pm
 cover: /photo/messy-church-photo-2023-1.jpg
 ---
 
