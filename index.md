@@ -22,7 +22,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 		<a class="no-underline" href="{{service.url}}">
 			<div class="w5 h4 pa3
 				ma2 mr4-l
-				bg-blue white tc grow hover-bg-dark-blue">
+				bg-blue br4 white tc grow hover-bg-dark-blue">
 				
 				<p class="mv1"><strong>{{service.title}}</strong></p>
 				<p class="mv1">{{service.audience}}</p>
