@@ -3,7 +3,7 @@ title: Picnic Lunch
 about: Eating and chatting together
 when: Every 1st Sunday at 12:00
 cover: /photo/lunch-2021.jpg
-live: true
+live: false
 ---
 
 Our picnic is a regular event which happens {{page.when}}. We get together straight after church, and eat, chat, and enjoy! Everyone is welcome and we love to invite new people to come and join us for this community lunch.

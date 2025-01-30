@@ -1,7 +1,7 @@
 ---
 title: Messy Church - Saturday 1st of February
 date: 2025-01-30T09:00:00.000Z
-photo: /photo/messy-church-photo-2023-1.jpg
+photo: /photo/messy-church-evergreen.jpg
 cover: /photo/messy-church-photo-2023-1.jpg
 ---
 
