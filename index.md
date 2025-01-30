@@ -67,7 +67,7 @@ So we made this video; we hope you enjoy it.
 <h2 class="cb pt2">Recent Posts</h2>
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
-	{% for this_post in site.posts limit:8 %}
+	{% for this_post in site.posts limit:4 %}
 		<a class="no-underline near-black" href="{{this_post.url}}">
 			{% 	include post-view.html
 				post=this_post
