@@ -3,7 +3,7 @@ title: Messy Church
 audience: For families
 when: Saturdays, every few months
 live: true
-nextevent: 1st Feb 2pm
+nextevent: 5th April 2pm
 cover: /photo/messy-church-photo-2023-1.jpg
 ---
 
