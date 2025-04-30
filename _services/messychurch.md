@@ -3,22 +3,22 @@ title: Messy Church
 audience: For families
 when: Saturdays, every few months
 live: true
-nextevent: 5th April 2pm
+nextevent: 7th June 2pm
 cover: /photo/messy-church-photo-2023-1.jpg
 ---
 
-Messy Church is a fun way for families with younger kids to get into God's house and have a great time. We have a different theme each time that teaches us something about God and Jesus.
+Messy Church is a fun way for families with kids to get into God's house and have a great time. We have a different theme each time that teaches us something about God and Jesus.
 
 ## What's it like?
 
-- Time for crafts and activities
+- Crafts and activity stations (45 mins)
 - A short bible message specially for the kids
-- A couple of songs
+- A couple of high energy action songs
 - Eat a snack together (at no cost)
 
-We start in the hall with some supervised crafts, and the kids can try as many or as few as they want to. There is also an area with soft toys for the very little ones.
+We start in the hall with four or five craft stations, and the kids can try as many or as few as they want to. We usually have a big painting, a big building craft, and a range of handicrafts. There's also a toy area for under 3s.
 
-After a while we go into the main church to listen to a short talk with lots of interactive bits, and we all sing some fun Jesus songs.
+After 45 mins, we go into the main church to listen to a short talk with lots of interactive bits, and we all sing some fun Jesus songs.
 
 When that's done, everyone is welcome to stay for a free snack that we eat together.
 
