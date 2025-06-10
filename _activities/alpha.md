@@ -7,7 +7,7 @@ permalink: /alpha/
 cover: /photo/alpha-cloud.jpg
 ---
 
-![You're invited to Alpha](/photo/alpha1.jpg)
+![You're invited to Alpha](/photo/alpha3.jpg)
 
 ## What is it? ##
 
