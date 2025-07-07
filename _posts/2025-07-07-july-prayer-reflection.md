@@ -1,7 +1,7 @@
 ---
 title: Reflective Prayer - 29th July
 date: 2025-07-07
-photo: /photo/southport-1.jpg
+photo: /photo/southport1.jpg
 cover: /photo/clouds1.jpg
 ---
 
