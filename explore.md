@@ -3,12 +3,15 @@ title: Explore
 longname: Find out more about Jesus
 ---
 
-Hi! You can fill in this form if you want to find out more about what it means to follow Jesus, if you'd like to have a conversation with us, or if you feel you need more resources, like a Bible.
+Hi! You can email us if you want to find out more about what it means to follow Jesus, if you'd like to have a conversation with us, or if you feel you need more resources, like a Bible.
 
-We'll get back to you at the email address you leave us and find out how we can help you. We'd love to talk.
+**info at canningroad.co.uk**
 
-You can watch a [trailer for Alpha here](/alpha/).
+We'll get back to you to find out how we can help. We'd love to talk.
 
+You can find out more about [Alpha here](/alpha/).
+
+<!--
 <div class="pa1 ph3 bg-moon-gray">
 	<form name="explore" method="POST" data-netlify="true">
 	  <p>
@@ -48,4 +51,4 @@ You can watch a [trailer for Alpha here](/alpha/).
 	  </p>
 	</form>
 </div>
-
+-->

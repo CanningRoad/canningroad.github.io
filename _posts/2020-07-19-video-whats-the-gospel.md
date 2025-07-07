@@ -19,6 +19,8 @@ Use the full-screen button to make the video bigger:
 You can also take a look at the [Canning Road YouTube Channel](
 https://www.youtube.com/channel/UCLlyMMvV26OndAy_ep7gv4A)
 
+<!--
 ## Find out more
 
 Here is the link to get in touch with us or get more information: <https://canningroad.co.uk/explore>
+-->
