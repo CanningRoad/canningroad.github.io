@@ -11,7 +11,7 @@ As we remember the Southport tragedy, the churches of Southport are holding pray
 
 You can come and take some time to relect, pray, or be prayed for.
 
-For another church closer to you, please see the flyer below.
+For another church closer to you, please see [the flyer below](/photo/july-prayer-flyer.jpg).
 
 ![Southport Prayer Flyer](/photo/july-prayer-flyer.jpg)
 
