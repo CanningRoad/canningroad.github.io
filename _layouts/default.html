@@ -1,126 +1,130 @@
 <!DOCTYPE HTML>
-<html>
+<html class="sans">
+
 <head>
-{% if page.title %}
+  {% if page.title %}
   <title>{{page.title}} - {{site.title}}</title>
-{% else %}
+  {% else %}
   <title>{{site.title}}</title>
-{% endif %}
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="/css/tachyons.css">
-<link rel="stylesheet" href="/css/custom.css">
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {% endif %}
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/tachyons.css">
+  <link rel="stylesheet" href="/css/custom.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400..700;1,400..700&display=swap"
+    rel="stylesheet">
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
+
 <body class="bg-moon-gray near-black">
 
   <div class="w-80-l center bg-white
   shadow-1">
 
-  <header class="bg-cloud">
-    <div class="w5 center pt4">
-      <a href="/">
-        <img class="" src="/img/logo-filled-512.png" alt="A sketch of the church" />
+    <header class="bg-cloud">
+      <div class="w5 center pt4">
+        <a href="/">
+          <img class="" src="/img/logo-filled-512.png" alt="A sketch of the church" />
+        </a>
+      </div>
+      <a class="no-underline near-black outline-transparent" href="/">
+        <h1 class="w-100-l tc">Canning Road Evangelical Church</h1>
       </a>
-    </div>
-    <a class="no-underline near-black outline-transparent" href="/">
-      <h1 class="w-100-l tc">Canning Road Evangelical Church</h1>
-    </a>
 
-    <div class="
+      <div class="
     ma3-l
-    bg-nav-l
     bw1 bb bl-l br-l">
-      <nav class="
+        <nav class="
       mt3
       f3 garamond b no-underline">
-        <ul class="list
+          <ul class="list
         pl0 mv0-ns
         flex-l">
-          {% for navitem in site.data.navitems %}
+            {% for navitem in site.data.navitems %}
             <li class="tc item-grow">
               <a class="black no-underline" href="/{{navitem.link}}">
                 {{navitem.title}}
               </a>
             </li>
-          {% endfor %}
-        </ul>
-      </nav>
-    </div>
-    
-  </header>
-
-  <main>
-    {% if site.crisis %}
-    <div class="bg-blue white pa3 tc">
-      <p><strong>COVID-19</strong> &ndash; Please see our
-      <a class="gold" href="/coronavirus/">Coronavirus page</a>
-      for updates and risk assessment.</p>
-    </div>
-    {% endif %}
-  
-    <div
-      class="bg-photo bg-congregation"
-      {% if page.cover %}
-      style="background-image: linear-gradient(to bottom, rgba(255,255,255, 0.4), rgba(255,255,255, 0.5)), url({{page.cover}});"
-      {% endif %}
-      >
-      <div class="pa3 filter filter-regal">
-      {% if page.intro %}
-        <p class="f3 measure-wide center">{{ page.intro }}</p>
-      {% elsif page.longname %}
-        <h2 class="f2 tc">{{ page.longname }}</h2>
-      {% else %}
-        <h2 class="f2 tc">{{ page.title }}</h2>
-      {% endif %}
-      
-      {% if page.has_pager %}
-        <p class="f4 tc">Written {{page.date | date_to_string}}</p>
-      {% endif %}
+            {% endfor %}
+          </ul>
+        </nav>
       </div>
-    </div>
-    
-    {% if page.has_pager %}
-      <div class="bg-near-white">
-        <div class="pa2 mw8-ns ph5-ns center cf">
-          {% if page.previous %}
-            <a href="{{page.previous.url}}">
-              <p class="
-              w-100 h2 tc pv2
-              w-50-l fl-l tl-l
-              near-black underline">
-                &larr; {{page.previous.title}}
-              </p>
-            </a>
+
+    </header>
+
+    <main>
+      {% if site.crisis %}
+      <div class="bg-blue white pa3 tc">
+        <p><strong>COVID-19</strong> &ndash; Please see our
+          <a class="gold" href="/coronavirus/">Coronavirus page</a>
+          for updates and risk assessment.
+        </p>
+      </div>
+      {% endif %}
+
+      <div class="bg-photo bg-congregation" {% if page.cover %}
+        style="background-image: linear-gradient(to bottom, rgba(255,255,255, 0.4), rgba(255,255,255, 0.5)), url({{page.cover}});"
+        {% endif %}>
+        <div class="pa3 filter filter-regal">
+          {% if page.intro %}
+          <p class="f3 measure-wide center">{{ page.intro }}</p>
+          {% elsif page.longname %}
+          <h2 class="f2 tc">{{ page.longname }}</h2>
+          {% else %}
+          <h2 class="f2 tc">{{ page.title }}</h2>
           {% endif %}
-          
-          {% if page.next %}
-            <a href="{{page.next.url}}">
-              <p class="
-              w-100 h2 tc pv2
-              w-50-l fr-l tr-l
-              near-black underline">
-                {{page.next.title}} &rarr;
-              </p>
-            </a>
+
+          {% if page.has_pager %}
+          <p class="f4 tc">Written {{page.date | date_to_string}}</p>
           {% endif %}
         </div>
       </div>
-    {% endif %}
-    
-    <div class="pa3 ph5-ns mw8-ns center cf lh-copy">
-      {{content}}
-    </div>
-  </main>
-  <footer class="h3 w-100 bg-near-white tc pv1 mt1">
-    <small>
-      Canning Road Evangelical Church, Canning Road, Southport, PR9 7SS – 01704 227755 <br>
-      Canning Road Evangelical Church CIO is a registered charity with charity number 1195749
-    </small>
-  </footer>
+
+      {% if page.has_pager %}
+      <div class="bg-near-white">
+        <div class="pa2 mw8-ns ph5-ns center cf">
+          {% if page.previous %}
+          <a href="{{page.previous.url}}">
+            <p class="
+              w-100 h2 tc pv2
+              w-50-l fl-l tl-l
+              near-black underline">
+              &larr; {{page.previous.title}}
+            </p>
+          </a>
+          {% endif %}
+
+          {% if page.next %}
+          <a href="{{page.next.url}}">
+            <p class="
+              w-100 h2 tc pv2
+              w-50-l fr-l tr-l
+              near-black underline">
+              {{page.next.title}} &rarr;
+            </p>
+          </a>
+          {% endif %}
+        </div>
+      </div>
+      {% endif %}
+
+      <div class="pa3 ph5-ns mw8-ns center cf lh-copy">
+        {{content}}
+      </div>
+    </main>
+    <footer class="h3 w-100 bg-near-white tc pv1 mt1">
+      <small>
+        Canning Road Evangelical Church, Canning Road, Southport, PR9 7SS – 01704 227755 <br>
+        Canning Road Evangelical Church CIO is a registered charity with charity number 1195749
+      </small>
+    </footer>
   </div>
   <script>
-  if (window.netlifyIdentity) { window.netlifyIdentity.on("init", user => { if (!user) { window.netlifyIdentity.on("login", () => { document.location.href = "/admin/"; }); } }); }
+    if (window.netlifyIdentity) { window.netlifyIdentity.on("init", user => { if (!user) { window.netlifyIdentity.on("login", () => { document.location.href = "/admin/"; }); } }); }
   </script>
 </body>
+
 </html>
