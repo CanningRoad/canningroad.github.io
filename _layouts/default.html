@@ -30,16 +30,12 @@
         <h1 class="w-100-l tc">Canning Road Evangelical Church</h1>
       </a>
       <div class="ma3-l">
-        <nav class="mt4 f3 no-underline">
-          <ul class="list pl0 mv0-ns flex-l">
-            {% for navitem in site.data.navitems %}
-            <li class="tc mv2 item-grow">
-              <a class="black no-underline" href="/{{navitem.link}}">
-                {{navitem.title}}
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
+        <nav class="mt4 f3 no-underline mv0-ns flex-l">
+          {% for navitem in site.data.navitems %}
+          <a class="db tc mv2 item-grow black no-underline" href="/{{navitem.link}}">
+            {{navitem.title}}
+          </a>
+          {% endfor %}
         </nav>
       </div>
     </header>
