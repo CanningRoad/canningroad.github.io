@@ -31,11 +31,9 @@ We have a regular Sunday morning service as well as other events throughout the 
 				{% if service.nextevent %}
 				<p class="mv1"><i>Next event:</i> {{service.nextevent}}</p>
 				{% endif %}
-				
 			</div>
 		</a>
 	{% endfor %}
-
 </div>
 
 ## Other events
@@ -67,7 +65,7 @@ So we made this video; we hope you enjoy it.
 <h2 class="cb pt2">Recent Posts</h2>
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
-	{% for this_post in site.posts limit:4 %}
+	{% for this_post in site.posts limit:3 %}
 		<a class="no-underline near-black" href="{{this_post.url}}">
 			{% 	include post-view.html
 				post=this_post
