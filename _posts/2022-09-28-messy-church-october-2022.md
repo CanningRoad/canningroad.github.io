@@ -9,7 +9,7 @@ This Saturday, **1st October** we are having Messy Church with the theme "Jesus 
 
 The new, earlier timing includes a snack for everyone (grown ups and kids) but no sit down meal.
 
-![Messy Church Flyer 1st October 2022](/photo/messy-church-oct-2022.png)
+![Messy Church Flyer 1st October 2022](/photo/messy-church-oct-2022.jpg)
 
 If Jesus was real, and his miracles really happened... what does that mean for us today?
 
