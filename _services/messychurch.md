@@ -7,6 +7,8 @@ nextevent: 27th of September
 cover: /photo/messy-church-photo-2023-1.jpg
 ---
 
+**{{ nextevent | default: when }}**
+
 Messy Church is a fun way for families with kids to get into God's house and have a great time. We have a different theme each time that teaches us something about God and Jesus.
 
 ## What's it like?
