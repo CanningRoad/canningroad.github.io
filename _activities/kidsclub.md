@@ -2,6 +2,7 @@
 title: Hero Academy (Kids)
 about: After-school club for 5-11s
 when: Thursdays at 5:00pm
+cover: /photo/hero-orange.jpg
 live: true
 ---
 ![Hero Academy Logo](/photo/ha-and-renew-slides-7-.png)
