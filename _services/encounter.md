@@ -1,6 +1,6 @@
 ---
 title: Encounter
-audience: All welcome
+about: All welcome
 when: Second Sunday each month at 4pm
 cover: /photo/hero-orange.jpg
 live: true

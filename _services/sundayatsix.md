@@ -1,6 +1,6 @@
 ---
 title: Sunday at Six
-audience: All welcome
+about: All welcome
 when: First Sunday of each month at 6pm
 ---
 

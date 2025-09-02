@@ -1,6 +1,6 @@
 ---
 title: Messy Church
-audience: For families
+about: For families
 when: Saturdays, every few months
 live: true
 nextevent: September

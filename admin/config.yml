@@ -14,7 +14,7 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Audience', name: 'audience', widget: 'string', hint: 'Short description for the blue box on the front page' }
+      - { label: 'About', name: 'about', widget: 'string', hint: 'Short description for the blue box on the front page' }
       - { label: 'When', name: 'when', widget: 'string', hint: 'Short day/time clue for the blue box on the front page' }
       - { label: 'Next Event', name: 'nextevent', widget: 'string', required: false, hint: 'Optional. For complex scheduling like Messy Church, enter the date of the next one' }
       - { label: 'Live', name: 'live', widget: 'boolean', default: true, hint: 'Show the tile for this service?' }

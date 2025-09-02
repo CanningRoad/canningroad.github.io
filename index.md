@@ -19,20 +19,10 @@ We have a regular Sunday morning service as well as other events throughout the 
 
 	{% assign live_services = site.services | where: "live", true %}
 	{% for service in live_services %}
-		<a class="no-underline" href="{{service.url}}">
-			<div class="w5 h4 pa3
-				ma2 mr4-l
-				bg-blue br4 white tc grow hover-bg-dark-blue">
-				
-				<p class="mv1"><strong>{{service.title}}</strong></p>
-				<p class="mv1">{{service.audience}}</p>
-				<p class="mv1">{{service.when}}</p>
-				
-				{% if service.nextevent %}
-				<p class="mv1"><i>Next event:</i> {{service.nextevent}}</p>
-				{% endif %}
-			</div>
-		</a>
+		{% 	include activity-button.html
+			activity=service
+			classes="bg-blue hover-bg-dark-blue"
+			%}
 	{% endfor %}
 </div>
 
@@ -43,6 +33,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 	{% for act in live_activities %}
 		{% 	include activity-button.html
 			activity=act
+			classes="bg-regal hover-bg-darkregal"
 			%}
 	{% endfor %}
 </div>	

@@ -1,6 +1,6 @@
 ---
 title: Sundays Online
-audience: Broadcast on YouTube
+about: Broadcast on YouTube
 when: Regularly
 cover: /photo/sunday-at-six-cover.jpg
 live: false

@@ -17,7 +17,7 @@ Have a look and see if any of these things might be for you:
 				b--mid-gray grow ">
 				
 				<h2>{{service.title}}</h2>
-				<p class="mv1 b">{{service.audience}}</p>
+				<p class="mv1 b">{{service.about}}</p>
 				<p class="mv1">{{service.when}}</p>
 				
 				{% if service.nextevent %}
@@ -42,7 +42,7 @@ Have a look and see if any of these things might be for you:
 				b--mid-gray grow ">
 				
 				<h2>{{activity.title}}</h2>
-				<p class="mv1 b">{{activity.audience}}</p>
+				<p class="mv1 b">{{activity.about}}</p>
 				<p class="mv1">{{activity.when}}</p>
 				
 				{% if activity.nextevent %}
