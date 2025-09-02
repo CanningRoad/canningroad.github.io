@@ -3,7 +3,7 @@ title: Messy Church
 about: For families
 when: Saturdays, every few months
 live: true
-nextevent: September
+nextevent: 27th of September
 cover: /photo/messy-church-photo-2023-1.jpg
 ---
 
