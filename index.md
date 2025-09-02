@@ -38,22 +38,14 @@ We have a regular Sunday morning service as well as other events throughout the 
 	{% endfor %}
 </div>	
 
-## What's the Christian faith about?
+## Our Vision
 
-<iframe class="fr-ns ml2-ns" width="416" height="234" src="https://www.youtube.com/embed/CHhz87QbVLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 1. To welcome **all people**, no matter who they are or where they come from, **into the best life** that the Lord God has for them.
+ 2. To be **loving**, generous and hospitable people, as a **response to what Jesus is doing in our lives**.
+ 3. To encourage, support and **build one another up** in love.
+ 4. To usher in the values of Jesus' kingdom in **freedom, forgiveness, and restoration** in High Park and Southport.
 
-Christians talk about the "good news"
-
-...but what's so good about it?
-
-What even makes a person a "Christian"?
-
-We wanted to answer these questions in a down-to-earth way that won't make you cringe. 
-
-So we made this video; we hope you enjoy it.
-
-
-<h2 class="cb pt2">Recent Posts</h2>
+## Recent Posts
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
 	{% for this_post in site.posts limit:3 %}
@@ -63,6 +55,6 @@ So we made this video; we hope you enjoy it.
 			%}
 		</a>
 	{% endfor %}
-</div>	
+</div>
 
 [More News Posts...](/news/)
