@@ -3,8 +3,9 @@ title: Messy Church
 about: For families
 when: Saturdays, every few months
 nextevent: 29th November
-live: true
 cover: /photo/messy-church-photo-2023-1.jpg
+live: true
+order: 3
 ---
 
 **{{ page.nextevent | default: page.when }}**

@@ -4,6 +4,7 @@ longname: Family Service and breaking of bread
 about: All welcome
 when: Sunday mornings at 10:30am
 live: true
+order: 1
 ---
 
 Our family service is where we meet together to praise God, learn more about him, and support each other in life.

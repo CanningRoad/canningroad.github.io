@@ -8,7 +8,7 @@ Have a look and see if any of these things might be for you:
 
 <div class="w-100 pv2 w-50-l fl-l">
 	<h2>Services</h2>	
-	{% assign live_services = site.services | where: "live", true %}
+	{% assign live_services = site.services | where: "live", true | sort: "order" %}
 	{% for service in live_services %}
 		<a class="no-underline near-black" href="{{service.url}}">
 			<div class="pv1 ph3

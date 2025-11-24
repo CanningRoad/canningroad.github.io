@@ -5,9 +5,9 @@ photo: /photo/messy-church-christmas.jpg
 cover: /photo/messy-church-photo-2023-1.jpg
 ---
 
-![Messy Christmas Poster - Baubles, Snowflakes, and Paint Splats](/photo/messy-church-christmas.jpg)
-
 Our next Messy Church is on **Saturday 29th of November**, from 2-4pm, and it's going to be a **Messy Christmas**! ⛄
+
+![Messy Christmas Poster - Baubles, Snowflakes, and Paint Splats](/photo/messy-church-christmas.jpg)
 
 We're going to get those festive feelings flowing with nativity crafts and snacks... some tidy, some messy, some big and some small 🧶
 

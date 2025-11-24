@@ -17,7 +17,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
 
-	{% assign live_services = site.services | where: "live", true %}
+	{% assign live_services = site.services | where: "live", true | sort: "order" %}
 	{% for service in live_services %}
 		{% 	include activity-button.html
 			activity=service

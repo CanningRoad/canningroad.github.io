@@ -3,8 +3,9 @@ title: Encounter
 about: All welcome
 when: Second Sunday each month at 4pm
 cover: /photo/hero-orange.jpg
-live: true
 permalink: /encounter/
+live: true
+order: 2
 ---
 
 **{{page.when}}**
