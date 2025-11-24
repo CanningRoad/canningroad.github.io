@@ -3,7 +3,7 @@ title: Food Bank
 about: Helping local people in crisis
 when: Mondays at 1pm
 permalink: /foodbank/
-live: true
+live: false
 ---
 
 We partner with [Compassion Acts][ca], part of the national Trussell Trust network of foodbanks.
