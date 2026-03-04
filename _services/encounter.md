@@ -41,8 +41,7 @@ It's on the {{page.when}}:
  + 11th of January 2026
  + 8th of February
  + 8th of March
-
-(On the 14th of December 2025, we have [Carols by Candlelight](/post/christmas-2025/) instead 🎵)
+ + 12th of April
 
 ## Practical Stuff
 
