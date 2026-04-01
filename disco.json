@@ -3,7 +3,7 @@
   "services": {
     "web": {
       "type": "generator",
-      "publicPath": "dist"
+      "publicPath": "_site"
     }
   }
 }
