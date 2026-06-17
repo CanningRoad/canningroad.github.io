@@ -58,3 +58,7 @@ We have a regular Sunday morning service as well as other events throughout the 
 </div>
 
 [More News Posts...](/news/)
+
+## Podcast
+
+Our Sunday morning teaching is now available to listen back via the [Sunday Sermons at Canning Road Podcast](https://rss.com/podcasts/sunday-sermons-at-canning-road/). Search for "Canning Road" wherever you get your podcasts (Apple, Spotify, Amazon Music).

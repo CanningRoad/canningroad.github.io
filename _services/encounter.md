@@ -4,11 +4,11 @@ about: All welcome
 when: Second Sunday each month at 4pm
 cover: /photo/hero-orange.jpg
 permalink: /encounter/
-live: true
+live: false
 order: 2
 ---
 
-**{{page.when}}**
+**Encounter is paused for now** - check out our usual Sunday morning services which are more accessible than ever 👋
 
 ![Encounter Poster](/photo/encounter-4-web.jpg)
 
