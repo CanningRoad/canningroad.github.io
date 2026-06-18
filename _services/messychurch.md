@@ -2,15 +2,15 @@
 title: Messy Church
 about: For families
 when: Saturdays, every few months
-nextevent: 28th March
+nextevent: 26th of September
 cover: /photo/messy-church-photo-2023-1.jpg
 live: true
 order: 3
 ---
 
-**{{ page.nextevent | default: page.when }}**
-
 Messy Church is a fun way for families with kids to get into God's house and have a great time. We have a different theme each time that teaches us something about God and Jesus.
+
+When?: **{{ page.nextevent | default: page.when }}**
 
 ## What's it like?
 

@@ -45,6 +45,10 @@ We have a regular Sunday morning service as well as other events throughout the 
  3. To encourage, support and **build one another up** in love.
  4. To usher in the values of Jesus' kingdom in **freedom, forgiveness, and restoration** in High Park and Southport.
 
+## Sunday Sermons Podcast
+
+Our Sunday morning teaching is now available to listen back via the [Sunday Sermons at Canning Road Podcast](https://rss.com/podcasts/sunday-sermons-at-canning-road/). Search for "Canning Road" wherever you get your podcasts (Apple, Spotify, Amazon Music).
+
 ## Recent Posts
 
 <div class="w-100 pv2 flex-l flex-wrap items-center-l">
@@ -58,7 +62,3 @@ We have a regular Sunday morning service as well as other events throughout the 
 </div>
 
 [More News Posts...](/news/)
-
-## Podcast
-
-Our Sunday morning teaching is now available to listen back via the [Sunday Sermons at Canning Road Podcast](https://rss.com/podcasts/sunday-sermons-at-canning-road/). Search for "Canning Road" wherever you get your podcasts (Apple, Spotify, Amazon Music).
